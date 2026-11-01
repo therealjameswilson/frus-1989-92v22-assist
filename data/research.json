@@ -96,6 +96,54 @@
       "category": "FOIA",
       "use": "Search released State Department records and source-note copy candidates.",
       "status": "Seeded"
+    },
+    {
+      "id": "source-foia-C09000001",
+      "label": "October 30, 2026 State FOIA release — C09000001",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000001/C09000001.pdf",
+      "category": "Official FOIA PDF",
+      "use": "Primary source PDF; page links point to physical PDF pages.",
+      "status": "Released"
+    },
+    {
+      "id": "source-foia-C09000002",
+      "label": "October 30, 2026 State FOIA release — C09000002",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000002/C09000002.pdf",
+      "category": "Official FOIA PDF",
+      "use": "Primary source PDF; page links point to physical PDF pages.",
+      "status": "Released"
+    },
+    {
+      "id": "source-foia-C09000004",
+      "label": "October 30, 2026 State FOIA release — C09000004",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000004/C09000004.pdf",
+      "category": "Official FOIA PDF",
+      "use": "Primary source PDF; page links point to physical PDF pages.",
+      "status": "Released"
+    },
+    {
+      "id": "source-foia-C09000007",
+      "label": "October 30, 2026 State FOIA release — C09000007",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000007/C09000007.pdf",
+      "category": "Official FOIA PDF",
+      "use": "Primary source PDF; page links point to physical PDF pages.",
+      "status": "Released"
+    },
+    {
+      "id": "source-foia-C09000008",
+      "label": "October 30, 2026 State FOIA release — C09000008",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000008/C09000008.pdf",
+      "category": "Official FOIA PDF",
+      "use": "Primary source PDF; page links point to physical PDF pages.",
+      "status": "Released"
+    },
+    {
+      "id": "source-foia-C09000010",
+      "label": "October 30, 2026 State FOIA release — C09000010",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000010/C09000010.pdf",
+      "category": "Official FOIA PDF",
+      "use": "Primary source PDF; page links point to physical PDF pages.",
+      "status": "Released"
     }
   ],
   "document_candidates": [
@@ -125,6 +173,442 @@
       "date": "TBD",
       "status": "Search queue",
       "action": "Check daily diary, staff files, and finding aids for dated contacts."
+    },
+    {
+      "id": "foia-2026-10-C09000001",
+      "title": "AMBASSADOR'S FAREWELL CALL ON PRESIDENT BALAGUER",
+      "repository": "U.S. Department of State FOIA Library",
+      "sourceLead": "source-foia-C09000001",
+      "date": "1992-01-03",
+      "status": "Reviewable lead; compiler selection pending",
+      "action": "Relevant Caribbean diplomatic reporting: the conversation treats bilateral relations and Haiti policy, with direct discussion of regional developments.",
+      "caseNumber": "M-2014-23169",
+      "documentId": "C09000001",
+      "collection": "FOIA_M_Oct2026_3",
+      "postedDate": "2026-10-30",
+      "releaseBatch": "2026-10-30",
+      "reportingDateNote": "The cable is dated January 3, 1992; it says the farewell call occurred January 2.",
+      "documentType": "Telegram",
+      "sender": "Embassy Santo Domingo",
+      "messageNumber": "1992 SANTO 000080",
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000001/C09000001.pdf",
+      "pageCount": 3,
+      "pageLinks": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000001/C09000001.pdf#page=1"
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000001/C09000001.pdf#page=2"
+        },
+        {
+          "page": 3,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000001/C09000001.pdf#page=3"
+        }
+      ],
+      "copyCitation": "U.S. Department of State, Embassy Santo Domingo, telegram 1992 SANTO 000080, “AMBASSADOR'S FAREWELL CALL ON PRESIDENT BALAGUER,” 1992-01-03, FOIA Library, case M-2014-23169, document C09000001, source PDF, pp. 1–3.",
+      "summary": "Ambassador Paul Taylor reports a January 2 farewell call with President Joaquín Balaguer, including the bilateral relationship, Haiti policy, and the Caribbean Basin Initiative.",
+      "relevance": "Relevant Caribbean diplomatic reporting: the conversation treats bilateral relations and Haiti policy, with direct discussion of regional developments.",
+      "textStatus": "Searchable embedded PDF text; not independently checked against the facsimile.",
+      "textNotice": "Search text may contain source OCR or local OCR errors. Blank, redacted, illegible, non-English, and handwriting content may not be searchable. No text was inferred or reconstructed from redactions. Page numbers are physical PDF pages, not printed page labels.",
+      "selectionDecision": "Pending compiler review; no final FRUS selection implied.",
+      "searchableText": [
+        {
+          "page": 1,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706239 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382027      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n                 CONFIDENTIAL\n\n      PAGE 01   SANTO 00080 032126Z\n      ACTION ARA-01\n                                                             RELEASED IN FULL\n       INFO LOG-00 AMAD-01 CIAE-00 DODE-00 HA-09  H-01   INRE-00\n           INR-01  L-03  ADS-00 NSAE-00 NSCE-00 OMB-01 PA-01\n          PM-01  PRS-01 P-01  SNP-01 SP-01  SS-01  TRSE-00\n           T-01   USIE-00  /025W\n                       BDDAB1 032127Z/38\n     R 032219Z JAN 92\n      FM AMEMBASSY SANTO DOMINGO\n      TO SECSTATE WASHDC 9550\n       INFO USCINCLANT NORFOLK VA\n\n     CONFIDENTIALSANTODOMINGO 000080\n\n        E. O. 12356: DECL: OADR\n       TAGS: PGOV, PREL, DR\n       SUBJ: AMBASSADOR'S FAREWELL CALL ON PRESIDENT BALAGUER\n\n          1. (CONFIDENTIAL - ENTIRE TEXT)\n\n          2. COMMENT: I PROVIDE THIS REPORT WITH SOME\n       HESITATION, GIVEN ITS CONTENT, BUT I DO SO FOLLOWING MY\n      PRACTICE DURING NEARLY THREE AND ONE HALF YEARS IN\n      SANTO DOMINGO OF TREATING EVERY PRIVATE MEETING WITH\n      PRESIDENT BALAGUER AS POTENTIALLY INTERESTING TO THE\n      DEPARTMENT AND THEREFORE OBLIGATORY TO REPORT. END\n      COMMENT.\n\n          3. ON JANUARY 2, I MADE MY FAREWELL CALL ON PRESIDENT\n                 CONFIDENTIAL\n\n\n                 CONFIDENTIAL\n\n      PAGE 02   SANTO 00080 032126Z\n      JOAQUIN BALAGUER. HE OPENED THE ONE-ON-ONE MEETING BY\n      SAYING HE WOULD BE SORRY TO SEE ME LEAVE BECAUSE, HE\n        SAID, I HAD BEEN THE BEST AMERICAN AMBASSADOR IN THE\n      DOMINICAN REPUBLIC FOR MANY YEARS. HE SAID I HAD\n      CONVEYED TO DOMINICANS A SINCERE INTEREST IN THEIR\n      COUNTRY'S DEVELOPMENT AND PROGRESS AND A CONSISTENT\n       WILLINGNESS TO BE HELPFUL TOWARD THOSE ENDS.\n\n          4.   I THANKED HIM FOR THOSE GENEROUS COMMENTS AND\n      MENTIONED THAT THE OPPORTUNITY TO KNOW AND WORK WITH\n       HIM HAD BEEN A SINGULAR HONOR. HE WAS AMONG THE\n      HEMISPHERE'S MOST DISTINGUISHED STATESMEN NOT ONLY\n      BECAUSE OF THE LONGEVITY OF HIS TENURE (COMMENT: A\n      REFERENCE WHICH CAUSED HIM TO CHUCKLE) BUT ALSO BECAUSE\n      OF THE STYLE IN WHICH HE HAD LED. HIS ABILITY TO\n       MAINTAIN TRANQUILITY IN THE FACE OF SERIOUS CRISES AND\n      TO CARRY OUT POLICY REFORMS HAD BEEN IMPRESSIVE.\n\n                            REVIEW AUTHORITY:  Charles Daris, Senior Reviewer\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706239 Date: 11/22/2017"
+        },
+        {
+          "page": 2,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706239 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382027      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n\n          5. PRESIDENT BALAGUER SAID THAT MY UNPRETENTIOUS AND\n      RESPECTFUL APPROACH HAD BEEN PARTICULARLY EFFECTIVE AND\n      HAD WON AFFECTION FOR THE UNITED STATES.  I HAD NOT\n       IRRITATED ANYONE IN THE GOVERNMENT, OR OUTSIDE IT. HIS\n      COUNTRY HAD BENEFITTED FOR HAVING A HIGHLY CAPABLE\n      AMBASSADOR OF STATURE REPRESENT THE UNITED STATES HERE,\n      HE ADDED. (AT THIS POINT PRESIDENT BALAGUER REMARKED\n      THAT HIS STATEMENTS \"MIGHT NOT BE VERY PROTOCOLARY.\")\n\n         6.  I RECALLED THAT WE HAD DEALT TOGETHER ON SERIOUS\n      PROBLEMS SUCH AS THE CASE OF DANIEL MIRAMBEAUX (THE\n      DOMINICAN FUGITIVE CHARGED WITH MURDERING A NEW YORK\n       POLICE OFFICER) AND THE GSP REVIEW OF WORKERS' RIGHTS.\n                 CONFIDENTIAL\n\n                 CONFIDENTIAL\n\n      PAGE 03   SANTO 00080 032126Z\n      PRESIDENT BALAGUER COMMENTED THERE WOULD ALWAYS BE\n      PROBLEMS. WE AGREED THAT THE IMPORTANT THING WAS TO\n      TRY TO WORK TOGETHER TO RESOLVE SUCH PROBLEMS RATHER\n      THAN LET THEM GET CONFRONTATIONAL AND DAMAGE OUR\n       RELATIONSHIP.\n\n          7. PRESIDENT BALAGUER ADDED THAT RELATIONS BETWEEN\n      LARGE COUNTRIES AND SMALL COUNTRIES WERE OFTEN\n       DIFFICULT.  I RESPONDED THAT THAT MIGHT BE THE CASE,\n      BUT BIG COUNTRIES DID NOT ALWAYS POSSESS BY THEMSELVES\n       ALL THE WISDOM THEY NEEDED, AND SMALL COUNTRIES WERE\n      NOT ALWAYS LACKING IN RESOURCES. DOMINICANS, FOR\n      EXAMPLE, HAD INSIGHTS INTO DEVELOPMENTS IN HAITI IN\n      WHICH WE WERE INTERESTED BECAUSE OF THE DOMINICANS'\n       PHYSICAL PROXIMITY TO HAITI AND THE CLOSENESS WITH\n      WHICH THEY FOLLOWED THEIR NEIGHBOR. PRESIDENT BALAGUER\n      ACKNOWLEDGED HIS ABIDING INTEREST IN HAITI AND PRAISED\n      CURRENT U.S. POLICY FOR MAINTAINING PRESSURE BUT NOT\n      BEING SO INSISTENT ON A SPECIFIC OUTCOME AS TO DENY\n       HAITIANS THE SPACE THEY NEEDED TO FIND SOLUTIONS.\n\n          8. COMMENT: PRESIDENT BALAGUER'S REMARKS EXPAND ON\n       SIMILARLY GRACIOUS COMMENTS HE MADE DECEMBER 13 WHEN I\n      INTRODUCED THE DCM. THEY CONTAIN AN ELEMENT OF LATIN\n      HYPERBOLE. PRESIDENT BALAGUER'S ATTITUDE MAY BE A\n      REACTION TO OUR MISSION PROGRAM PLAN IN WHICH THE\n      COUNTRY TEAM'S OVERARCHING GOAL HAS BEEN TO REDUCE THE\n      EXCESSIVE DOMINICAN SENSE OF DEPENDENCE ON THE UNITED\n       STATES. WE HAVE WORKED TO ENCOURAGE DOMINICANS TO TAKE\n       RESPONSIBILITY FOR THEIR OWN AFFAIRS AND TRIED WHEN\n      POSSIBLE NOT TO PRESCRIBE SOLUTIONS OR CRITICIZE\n                 CONFIDENTIAL\n\n                 CONFIDENTIAL\n\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706239 Date: 11/22/2017"
+        },
+        {
+          "page": 3,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706239 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382027      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n      PAGE 04   SANTO 00080 032126Z\n      DOMINICAN BEHAVIOR IN PUBLIC. MY TASK HAS BEEN MADE\n       EASIER BY PRESIDENT BALAGUER'S ADMIRATION FOR\n      PRESIDENTS REAGAN AND BUSH AND THE IMPRESSIVE SUCCESS\n      OF THE DOMINICAN REPUBLIC UNDER THE CARIBBEAN BASIN\n        INITIATIVE.\n\n      TAYLOR\n\n\n                 CONFIDENTIAL\n\n\n\n\n\n      NNNN\n\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706239 Date: 11/22/2017"
+        }
+      ]
+    },
+    {
+      "id": "foia-2026-10-C09000002",
+      "title": "CODEL PRESSLER MEETS WITH PRESIDENT BALAGUER AND FOREIGN SECRETARY TAVERAS",
+      "repository": "U.S. Department of State FOIA Library",
+      "sourceLead": "source-foia-C09000002",
+      "date": "1991-12-11",
+      "status": "Reviewable lead; compiler selection pending",
+      "action": "Substantive U.S.–Dominican contacts address Haiti and Cuba as well as bilateral policy, making this a cross-topic Caribbean lead.",
+      "caseNumber": "M-2014-23169",
+      "documentId": "C09000002",
+      "collection": "FOIA_M_Oct2026_3",
+      "postedDate": "2026-10-30",
+      "releaseBatch": "2026-10-30",
+      "reportingDateNote": "The cable/report date is December 11, 1991; the body says the visit and meetings took place December 2–4.",
+      "documentType": "Telegram",
+      "sender": "Embassy Santo Domingo",
+      "messageNumber": "1991 SANTO 011406",
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000002/C09000002.pdf",
+      "pageCount": 8,
+      "pageLinks": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000002/C09000002.pdf#page=1"
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000002/C09000002.pdf#page=2"
+        },
+        {
+          "page": 3,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000002/C09000002.pdf#page=3"
+        },
+        {
+          "page": 4,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000002/C09000002.pdf#page=4"
+        },
+        {
+          "page": 5,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000002/C09000002.pdf#page=5"
+        },
+        {
+          "page": 6,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000002/C09000002.pdf#page=6"
+        },
+        {
+          "page": 7,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000002/C09000002.pdf#page=7"
+        },
+        {
+          "page": 8,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000002/C09000002.pdf#page=8"
+        }
+      ],
+      "copyCitation": "U.S. Department of State, Embassy Santo Domingo, telegram 1991 SANTO 011406, “CODEL PRESSLER MEETS WITH PRESIDENT BALAGUER AND FOREIGN SECRETARY TAVERAS,” 1991-12-11, FOIA Library, case M-2014-23169, document C09000002, source PDF, pp. 1–8.",
+      "summary": "An embassy report on Senator Larry Pressler’s December 2–4 visit and meetings with Balaguer and Foreign Secretary Taveras. The text addresses Haiti, Cuban policy, Haitian workers, and U.S.–Dominican relations.",
+      "relevance": "Substantive U.S.–Dominican contacts address Haiti and Cuba as well as bilateral policy, making this a cross-topic Caribbean lead.",
+      "textStatus": "Searchable embedded PDF text; not independently checked against the facsimile.",
+      "textNotice": "Search text may contain source OCR or local OCR errors. Blank, redacted, illegible, non-English, and handwriting content may not be searchable. No text was inferred or reconstructed from redactions. Page numbers are physical PDF pages, not printed page labels.",
+      "selectionDecision": "Pending compiler review; no final FRUS selection implied.",
+      "searchableText": [
+        {
+          "page": 1,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706243 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382044      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n                 CONFIDENTIAL\n                                                          RELEASED IN FULL      PAGE 01   SANTO 11406 01 OF 03 111400Z\n      ACTION H-06\n\n       INFO LOG-00 AMAD-01 ARA-01 DS-00  ADS-00  SS-01   /009W\n                        B5EBB5 111400Z /38\n     R 111403Z DEC 91\n      FM AMEMBASSY SANTO DOMINGO\n      TO SECSTATE WASHDC 9202\n       INFO USCINCLANT NORFOLK VA\n\n     CONFIDENTIAL SECTION 01 OF 03 SANTO DOMINGO 011406\n\n\n        E.O. 12356: DECL: OADR\n       TAGS: PREL, OREP, DR\n       SUBJECT: CODEL PRESSLER MEETS WITH PRESIDENT BALAGUER\n          AND FOREIGN SECRETARY TAVERAS\n\n          1. (CONFIDENTIAL - ENTIRE TEXT)\n\n\n          2. SUMMARY\n\n\n      CODEL PRESSLER, ACCOMPANIED BY AMBASSADOR TAYLOR AND\n      POLCOUNS, HAD SEPARATE MEETINGS WITH PRESIDENT BALAGUER\n      AND FOREIGN SECRETARY TAVERAS DURING A DECEMBER 2-4\n        VISIT TO THE DR. BALAGUER AND TAVERAS WARMLY PRAISED\n      THE U.S. BALAGUER CALLED THE U.S. POSITION ON DEALING\n      WITH DOMINICAN DEBT JUST AND BALANCED, IN CONTRAST TO\n      THE HARD LINE THE EUROPEANS AND JAPANESE ALWAYS TAKE.\n                 CONFIDENTIAL\n\n\n                 CONFIDENTIAL\n\n      PAGE 02   SANTO 11406 01 OF 03 111400Z\n      HE ALSO COMPARED U.S. DIPLOMATIC AND AID POLICIES TO\n      THE DR FAVORABLY WITH THOSE OF THE EUROPEANS. BALAGUER\n      AND TAVERAS BOTH SAID ARISTIDE IS NOT COMPETENT TO\n      GOVERN HAITI. BALAGUER THINKS THAT ARISTIDE IS NOT                REVIEW AUTHORITY:\n      NORMAL\" AND HOPES SME AS YET UNKNOWN HAITIAN CAN RISE               Charles Daris, Senior\n      TO LEAD THAT COUNTRY. TAVERAS SAID HE HAS RECEIVED                  Reviewer\n      REPORTS THAT OPPOSITION TO ARISTIDE IN HAITI IS SO\n      STRONG THAT HIS RETURN WOULD PLUNGE THAT COUNTRY INTO\n        CIVIL WAR. TAVERAS WANTS THE OAS TO INTERPRET THE\n      HUMANITARIAN PROVISION OF ITS EMBARGO RESOLUTION IN A\n     WAY WHICH WILL PREVENT HAITIANS FROM FLEEING THEIR\n      COUNTRY. BALAGUER SAID HE IS AWARE HAITIAN SUGAR CANE\n      CUTTERS HAVE PROBLEMS IN THE DR, BUT HE ARGUED THAT THE\n     GODR IS WORKING TO RESOLVE THEM AND THAT THE GODR DID\n      NOT DISCRIMINATE BETWEEN HAITIAN AND DOMINICAN WORKERS.\n      BALAGUER BELIEVES DOMINICAN NEGLIGENCE CAUSED THE\n      RECENT PROHIBITION ON DOMINICAN MEAT EXPORTS TO THE\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706243 Date: 11/22/2017"
+        },
+        {
+          "page": 2,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706243 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382044      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n        U.S. AT A LUNCH HOSTED BY THE AMCHAM, SOME BOARD\n      MEMBERS URGED THAT U.S. RESTRICTIONS ON SOME DOMINICAN\n      IMPORTS BE CUT. END SUMMARY.\n\n          3. CODEL VISIT\n\n\n      SENATOR LARRY PRESSLER, ACCOMPANIED BY STAFFERS DEBORAH\n      DEMOSS, BRUCE RICKERSON, AND DAN NELSON, VISITED THE DR\n      DECEMBER 2-4. THEY WERE ACCOMPANIED BY AMBASSADOR\n      TAYLOR AND POLCOUNS TO SEPARATE MEETINGS WITH PRESIDENT\n      JOAQUIN BALAGUER AND FOREIGN SECRETARY JUAN ARISTIDES\n      TAVERAS GUZMAN ON DECEMBER 2. EMBASSY DCM AND ECON\n                 CONFIDENTIAL\n\n                 CONFIDENTIAL\n\n      PAGE 03   SANTO 11406 01 OF 03 111400Z\n      OFFICER JOINED THE GROUP AT A LUNCH HOSTED BY THE\n      AMERICAN CHAMBER OF COMMERCE. THE AMBASSADOR HOSTED A\n      RECEPTION IN HONOR OF SEN. PRESSLER, WHICH CABINET\n      MEMBERS, FORMER PRESIDENTS, AND OTHER DIGNITARIES\n      ATTENDED. THE CODEL TRAVELED TO LA ROMANA ON DECEMBER\n        3 TO VISIT SUGAR CANE FIELDS AND DISCUSS CENTRAL\n      ROMANA'S AGRICULTURAL DIVERSIFICATION PROGRAM.\n\n        A. MEETING WITH PRESIDENT BALAGUER\n\n\n          4. \"DR CAN ACCEPT ONLY LIMITED NUMBER OF HAITIANS\"\n\n      BALAGUER SAID THE DR HAS BEEN DEALING FOR YEARS WITH\n      THE PROBLEMS OF HAITI. HE DESCRIBED HAITI AS NOT ONLY\n      POOR, BUT OVERPOPULATED, BACKWARD, DEFORESTED, AND\n      LACKING WATER. THE DOMINICAN REPUBLIC HAS OPENED ITS\n     DOORS TO HAITIANS BUT WOULD LOSE ITS NATIONAL IDENTITY\n         IF IT ACCEPTS TOO MANY HAITIANS. BALAGUER CONCURRED\n      WITH A RECOMMENDATION, WHICH HE SAID HE READ IN A U.S.\n       INTERNATIONAL LAW TEXTBOOK, THAT PART OF THE HAITIAN\n      POPULATION BE TRANSFERRED TO GUYANA OR ANOTHER\n      APPROPRIATE PLACE. HE THINKS MANY LATIN AMERICAN\n      COUNTRIES HAVE SUFFICIENT LAND TO ACCOMMODATE HAITIAN\n       IMMIGRANTS.\n\n          5. \"ARISTIDE NOT NORMAL\"\n\n      BALAGUER CONCEDED THAT ARISTIDE MIGHT BE WELL\n       INTENTIONED, BUT THIS IS OFFSET BY HIS INCOMPETENCE AND\n                 CONFIDENTIAL\n\n                 CONFIDENTIAL\n\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706243 Date: 11/22/2017"
+        },
+        {
+          "page": 3,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706243 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382044      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n      PAGE 04   SANTO 11406 01 OF 03 111400Z\n      THE FACT THAT HE IS NOT NORMAL. BALAGUER CALLED\n       ARISTIDE'S FOLLOWERS FANATICS INVOLVED IN VOODOO. HE\n      COMMENTED THAT ARISTIDE IS NOT THE APPROPRIATE PERSON\n      TO LEAD HAITI AND THE BEST POLICY WOULD BE FOR OTHER\n      COUNTRIES TO PROVIDE THE OPPORTUNITY FOR SOME, AS YET\n      UNKNOWN, HAITIAN TO RISE TO THE LEADERSHIP POSITION.\n      PRESSLER, STATING THAT HE DOES NOT SPEAK FOR THE STATE\n      DEPARTMENT, SAID HE DOES NOT AGREE WITH THE WAY THE\n        U.S. HAS EMBRACED ARISTIDE. PRESSLER ASKED IF HE COULD\n       TELL PRESIDENT BUSH AND SECRETARY BAKER THAT BALAGUER\n       BELIEVES A MORE CAPABLE PERSON SHOULD REPLACE ARISTIDE.\n      BALAGUER ASSENTED, PROVIDED THIS IS DONE IN PRIVATE.\n\n         6. \"HAITIAN BRACERO PROBLEM EXAGGERATED\"\n\n      BALAGUER CHARGED THAT ULTRA-PROGRESSIVES AND A\n       SENSATIONALIST PRESS HAVE FOR POLITICAL REASONS\n      EXAGGERATED THE PROBLEMS OF HAITIAN SUGAR CANE CUTTERS\n\n\n                 CONFIDENTIAL\n\n\n\n\n\n      NNNN\n\n                 CONFIDENTIAL\n\n      PAGE 01   SANTO 11406 02 OF 03 111401Z\n      ACTION H-06\n\n       INFO LOG-00 AMAD-01 ARA-01 DS-00  ADS-00  SS-01   /009W\n                       B5EBCC 111401Z /38\n     R 111403Z DEC 91\n      FM AMEMBASSY SANTO DOMINGO\n      TO SECSTATE WASHDC 9203\n       INFO USCINCLANT NORFOLK VA\n\n     CONFIDENTIAL SECTION 02 OF 03 SANTO DOMINGO 011406\n\n\n        E.O. 12356: DECL: OADR\n       TAGS: PREL, OREP, DR\n       SUBJECT: CODEL PRESSLER MEETS WITH PRESIDENT BALAGUER\n          AND FOREIGN SECRETARY TAVERAS\n\n        IN THE DR. HE SAID ALL BUT THE POLITICAL LEFT IN THE\n     DR SUPPORT THE MEASURES ADOPTED BY THE GODR REGARDING\n       HAITIAN WORKERS. THE GODR IS CONSCIOUS CONDITIONS --\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706243 Date: 11/22/2017"
+        },
+        {
+          "page": 4,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706243 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382044      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n       ESPECIALLY HEALTH AND EDUCATION -- FOR BRACEROS ARE\n       INADEQUATE. BUT SO ARE THEY FOR DOMINICANS, AND THE\n     GODR DOES NOT DISCRIMINATE BETWEEN HAITIAN AND\n      DOMINICAN WORKERS. IF THE GODR COULD RESOLVE THESE\n      PROBLEMS, IT WOULD NO LONGER BE AN UNDERDEVELOPED\n      COUNTRY. THE GODR IS WORKING TO IMPROVE THE SITUATION,\n      BUT PATIENCE IS REQUIRED BECAUSE OF THE COUNTRY'S\n       LIMITED RESOURCES.\n\n          7. \"SITUATION IN CUBA WILL DESTROY CASTRO\"\n                 CONFIDENTIAL\n\n\n                 CONFIDENTIAL\n\n      PAGE 02   SANTO 11406 02 OF 03 111401Z\n\n      PRESSLER SAID HE HAD MET FOR 5 HOURS 45 MINUTES WITH\n       FIDEL CASTRO AND HAD TOLD CASTRO FAIR ELECTIONS MUST BE\n      HELD BEFORE AMERICAN TOURISTS COULD VISIT CUBA.\n      BALAGUER BELIEVES THE BEST POLICY IS TO KEEP THE\n      PRESSURE ON CASTRO AND SIMPLY ALLOW THE SITUATION IN\n      CUBA TO DESTROY HIM; VIOLENT INTERVENTION WOULD BE\n      COUNTERPRODUCTIVE.\n\n          8. PRAISE FOR THE U.S. AND STATE DEPARTMENT\n\n      BALAGUER PRAISED THE STATE DEPARTMENT AS HIGHLY\n      COMPETENT AND ADDED THAT IT PAYS CLOSE ATTENTION TO\n      WHAT HAPPENS IN THE DR. HE CALLED PRESIDENT BUSH'S\n      ENTERPRISE FOR THE AMERICAS INITIATIVE VERY\n       INTERESTING, THOUGH SOME DOMINICAN GROUPS RESIST\n      OPENING THE ECONOMY FOR FEAR THEY WOULD NOT BE ABLE TO\n      COMPETE WITH LOWER-PRICED, HIGHER-QUALITY GOODS. HE\n       SAID THE U.S. HAS THE MOST GENEROUS FOREIGN POLICY OF\n      ANY COUNTRY AND IS THE BEST GUARDIAN OF PEACE. HE\n      NOTED THAT THE BRITISH, FRENCH, GERMANS, AND JAPANESE\n      ALWAYS TAKE A HARD LINE IN DEBT TALKS, WHILE THE U.S.\n      PRESENTS A JUST AND BALANCED POLICY.\n\n          9. ASKED BY SENATOR PRESSLER WHETHER HE WAS CONCERNED\n      THAT THE U.S. WAS TOO PREOCCUPIED WITH OTHER WORLD\n       ISSUES AND IGNORING THE DOMINICAN REPUBLIC, PRESIDENT\n      BALAGUER SAID NO, THE U.S. EMBASSY IN SANTO DOMINGO\n      VERY ABLY REFLECTED U.S. INTEREST IN HIS COUNTRY.\n      PRESSLER EXPLAINED THAT DOMESTIC U.S PROBLEMS MEAN THE\n      ERA OF FOREIGN AID IS OVER. BALAGUER EXPRESSED\n                 CONFIDENTIAL\n\n\n                 CONFIDENTIAL\n\n      PAGE 03   SANTO 11406 02 OF 03 111401Z\n       SATISFACTION WITH THE TYPE AND AMOUNT OF AID THE DR\n      RECEIVES FROM THE U.S. THIS IN CONTRAST TO THAT OF THE\n      EUROPEANS, WHO TALK A GREAT DEAL ABOUT PROJECTS AND\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706243 Date: 11/22/2017"
+        },
+        {
+          "page": 5,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706243 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382044      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n       IDEAS BUT DO LITTLE CONCRETE TO HELP THE DR. HE\n      DESCRIBED EUROPEANS AND CANADIANS AS PREJUDICED IN\n      FAVOR OF THE ISLANDS OF THE CARIBBEAN POPULATED BY\n      BLACK PEOPLE. THIS IS TRUE DIPLOMATICALLY AS WELL AS\n      ECONOMICALLY, AS EVIDENCED BY THE CLOSURES IN SANTO\n      DOMINGO OF THE BRITISH AND CANADIAN EMBASSIES. HE\n      NOTED THAT, FOR A TIME, DOMINICANS HAD TO TRAVEL TO\n      PORT AU PRINCE TO OBTAIN CANADIAN VISAS. IN THANKING\n      THE U.S. FOR ITS HELP, BALAGUER EXPRESSED COMPLETE\n       IDENTIFICATION WITH THE WAR ON DRUGS.\n\n         10. U.S. MEAT IMPORT PROHIBITION DR'S FAULT\n\n      ASKED ABOUT THE PROBLEM OF THE CERTIFICATION OF MEAT\n      EXPORTS TO THE U.S., BALAGUER CRITICIZED THE PEOPLE IN\n      THE MEAT EXPORT BUSINESS HERE FOR NOT HANDLING THE\n       CERTIFICATION PROCESS WITH ENOUGH CARE. HE DESCRIBED\n      THE PROHIBITION ON IMPORTING MEAT INTO THE U.S. AS A\n      PASSING PROBLEM WHICH THE DR WILL BE ABLE TO RESOLVE.\n      IMPROVING THE LABORATORY POCEDURES WILL NOT BE\n        DIFICULT, ESPECIALLY AS ITIS IN EVERYONE'S INTEREST\n      TO DO SO.\n\n         11. CORRUPTION LIMITED IN THE GODR\n\n      BALAGUER VOLUNTEERED THAT HE COULD NOT SAY THE DR DOES\n      NOT HAVE A CORRUPTION PROBLEM, BUT DESCRIBED IT AS OF\n       LIMITED DIMENSIONS. HE EXPLAINED THAT CORRUPTION\n                 CONFIDENTIAL\n\n\n                 CONFIDENTIAL\n\n      PAGE 04   SANTO 11406 02 OF 03 111401Z\n       EXISTS EVEN WITH AN HONEST PRESIDENT, BUT IT CAN BE\n      CONTROLLED. HE ADDED THAT THE DR IS IN A DIFFICULT\n      SOCIAL-ECONOMIC PERIOD, WITH MANY PEOPLE LOOKING TO\n      MAKE A QUICK BUCK INSTEAD OF WORKING HARD.\n\n        B. MEETING WITH FOREIGN SECRETARY TAVERAS\n\n\n         12. \"I'M A GREAT ADMIRER OF THE U.S.\"\n\n      TAVERAS TOLD PRESSLER THE DOMINICAN PEOPLE WELCOMED HIM\n      WITH GREAT LOVE AND RESPECT. HE DESCRIBED THE FOREIGN\n       SECRETARIAT'S RELATIONS WITH THE EMBASSY AS\n       DISTINGUISHED, WONDERFUL, AND FRIENDLY. HE SAID HE IS\n      A GREAT ADMIRER OF THE U.S. AND ITS IDEALS AND FOR A\n      QUARTER OF A CENTURY HE HAS WRITTEN BOOKS AND ARTICLES\n       PRAISING THE U.S. HE WANTS TO MAINTAIN AND INCREASE\n\n                 CONFIDENTIAL\n\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706243 Date: 11/22/2017"
+        },
+        {
+          "page": 6,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706243 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382044      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n\n\n      NNNN\n\n                 CONFIDENTIAL\n\n      PAGE 01   SANTO 11406 03 OF 03 111402Z\n      ACTION H-06\n\n       INFO LOG-00 AMAD-01 ARA-01 DS-00  ADS-00  SS-01   /009W\n                        B5EBE3 111403Z /38\n     R 111403Z DEC 91\n      FM AMEMBASSY SANTO DOMINGO\n      TO SECSTATE WASHDC 9204\n       INFO USCINCLANT NORFOLK VA\n\n     CONFIDENTIAL SECTION 03 OF 03 SANTO DOMINGO 011406\n\n\n        E.O. 12356: DECL: OADR\n       TAGS: PREL, OREP, DR\n       SUBJECT: CODEL PRESSLER MEETS WITH PRESIDENT BALAGUER\n          AND FOREIGN SECRETARY TAVERAS\n\n       BILATERAL AGREEMENTS OF MUTUAL BENEFIT. OTHER\n      COUNTRIES HAVE OFFERED TO INVEST IN THE DR, BUT THE DR\n        IS FIRST AND ALWAYS WITH THE U.S.\n\n         13. SUGAR CANE QUOTA MATTER OF LIFE OR DEATH FOR DR\n\n      TAVERAS EXPLAINED THE U.S. SUGAR CANE QUOTA MEANS LIFE\n     OR DEATH FOR THE DR, AND HE HOPES THIS YEAR THE U.S.\n      KEEPS THIS IN MIND AND SETS AN ADEQUATE QUOTA. WHILE\n      THE QUOTA IS INSIGNIFICANT FOR A BIG COUNTRY, IT IS THE\n      KEY TO RESOLVING THE DR'S EXTERNAL DEBT PROBLEM. HE\n      EMPHASIZED THAT SUGAR IS THE ONLY THING ON WHICH THE DR\n      CAN COUNT.\n                 CONFIDENTIAL\n\n\n                 CONFIDENTIAL\n\n      PAGE 02   SANTO 11406 03 OF 03 111402Z\n\n         14. \"EASE EMBARGO ON HAITI\"\n\n      TAVERAS STATED THAT THE DR SUFFERS MORE THAN ANY OTHER\n      COUNTRY BECAUSE OF THE HAITIAN PROBLEM. THOUGH THE DR\n        IS A VICTIM OF THE EMBARGO, IT IS COMPLYING COMPLETELY\n      WITH THE OAS RESOLUTIONS. HE HOPES THE OAS CAN\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706243 Date: 11/22/2017"
+        },
+        {
+          "page": 7,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706243 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382044      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n      SUCCESSFULLY COMPLETE ITS WORK WITH HAITI, BUT BELIEVES\n      THE HAITIAN PEOPLE'S LACK OF FOOD, GAS, AND MEDICINE\n      HAS TO BE TAKEN INTO ACCOUNT. HE CALLED THE THOUSANDS\n      OF HAITIANS FLEEING TO THE U.S. AND OTHER COUNTRIES\n      JUST A PRECURSOR OF WHAT WILL HAPPEN IF CERTAIN LATIN\n      AMERICAN LEADERS DO NOT BEGIN TO THINK WITH THEIR HEADS\n       INSTEAD OF THEIR HEARTS IN DEALING WITH HAITI. HE\n      STATED THAT THE WORLD REACTED EMOTIONALLY TO THE COUP\n      AND SOME PRESIDENTS AND FOREIGN MINISTERS DID NOT\n      REFLECT ON THE DETERIORATION WHICH HAD TAKEN PLACE\n      UNDER ARISTIDE'S INCOMPETENT LEADERSHIP. TAVERAS\n      STRESSED HE WAS NOT SAYING THE GODR HAD FAVORED OR\n      SUPPORTED A COUP, BUT THAT THE OAS HAS TO INTERPRET THE\n      HUMANITARIAN ASPECTS OF ITS EMBARGO RESOLUTION IN A WAY\n      WHICH WILL PREVENT REFUGEES FROM FLEEING HAITI.\n\n         15. SOME SAY ARISTIDE'S RETURN WOULD MEAN CIVIL WAR\n\n      TAVERAS SAID MANY DOMINICANS WHO KNEW ARISTIDE WHEN HE\n       LIVED HERE JUDGE HIM UNTRUSTWORTHY. THE BISHOPS, WHO\n      HAD BEEN ARISTIDE'S HELPERS IN THE DR, HAVE STRONGLY\n       CRITICIZED ARISTIDE. TAVERAS SAID HE HAS HEARD REPORTS\n      THAT OPPOSITION IN HAITI TO ARISTIDE IS SO INTENSE THAT\n       HIS RETURN WOULD PLUNGE THAT COUNTRY INTO CIVIL WAR.\n                 CONFIDENTIAL\n\n\n                 CONFIDENTIAL\n\n      PAGE 03   SANTO 11406 03 OF 03 111402Z\n      TAVERAS DESCRIBED HAITI AS STILL A LONG WAY FROM\n      DEMOCRACY AND IN NEED OF A TRANSITION PERIOD. HE WOULD\n       LIKE A LEADER TO SURFACE IN HAITI WHO CAN GET THROUGH\n      TO THE PEOPLE, PLEAD FOR A RETURN TO CONSTITUTIONAL\n      GOVERNMENT, AND CONVINCE ARISTIDE TO BECOME FLEXIBLE.\n      HE HOPES ELECTIONS CAN BE HELD IN A FORUM IN WHICH\n       ARISTIDE COULD PARTICIPATE.\n\n\n        C. AMCHAM LUNCH\n\n         16. \"CUT U.S. RESTRICTIONS ON SOME DOMINICAN IMPORTS\"\n\n      AT A LUNCH HOSTED BY THE AMERICAN CHAMBER OF COMMERCE,\n      ONE EXECUTIVE BOARD MEMBER URGED THE U.S. TO CUT ITS\n      RESTRICTIONS ON SOME DOMINICAN EXPORTS. HE ARGUED IT\n     WOULD BE EASIER TO CREATE JOBS WHICH THE U.S. WOULD\n      LOSE AS A RESULT THAN TO DEAL WITH DOMINICANS GOING TO\n      THE U.S. TO LOOK FOR WORK. AMCHAM VICE PRESIDENT\n      WILSON ROOD COMPLAINED THAT IT WAS MORE DIFFICULT TO\n      EXPORT FOOD PRODUCTS TO THE U.S. THAN TO ANY COUNTRY IN\n      THE CARIBBEAN OR EUROPE. HE SAID THAT INSTEAD OF BEING\n      AN EXAMPLE FOR THE REGION, THE U.S. AND PUERTO RICAN\n      MARKETS ARE NOT OPEN. AT THE SAME TIME, THE AMCHAM\n      MEMBERS LAUDED THE CARIBBEAN BASIN INITIATIVE AND\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706243 Date: 11/22/2017"
+        },
+        {
+          "page": 8,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706243 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382044      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n      CALLED BUSH'S FREE TRADE INITIATIVE A BREATH OF FRESH\n        AIR.\n\n         17. \"DR NEEDS TO DROP OBSOLETE STATIST LAWS\"\n\n                 CONFIDENTIAL\n\n\n                 CONFIDENTIAL\n\n      PAGE 04   SANTO 11406 03 OF 03 111402Z\n      WHILE THE DR WAS CRITICIZED FOR STILL HAVING SOME\n      OBSOLETE STATIST LAWS IN PLACE, OTHER AREAS OF ITS\n      ECONOMIC POLICIES WERE PRAISED. IT WAS POINTED OUT\n      THAT INFLATION HAD DROPPED FROM OVER 100 PERCENT TO A\n       SINGLE DIGIT FIGURE IN ONE YEAR AND THAT THE CENTRAL\n       BANK'S RESERVES HAVE GROWN FROM ZERO TO MORE THAN 300\n       MILLION DOLLARS.\n      TAYLOR\n\n\n                 CONFIDENTIAL\n\n\n\n\n\n      NNNN\n\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706243 Date: 11/22/2017"
+        }
+      ]
+    },
+    {
+      "id": "foia-2026-10-C09000004",
+      "title": "DOMINICAN REPATIRATION OF HAITIANS",
+      "repository": "U.S. Department of State FOIA Library",
+      "sourceLead": "source-foia-C09000004",
+      "date": "1991-07-05",
+      "status": "Reviewable lead; compiler selection pending",
+      "action": "Directly addresses Haiti and Dominican–Haitian relations, repatriation, labor, and U.S. diplomatic representations.",
+      "caseNumber": "M-2014-23169",
+      "documentId": "C09000004",
+      "collection": "FOIA_M_Oct2026_3",
+      "postedDate": "2026-10-30",
+      "releaseBatch": "2026-10-30",
+      "reportingDateNote": "The cable and meeting are dated July 5, 1991.",
+      "documentType": "Telegram",
+      "sender": "Embassy Santo Domingo",
+      "messageNumber": "1991 SANTO 005951",
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000004/C09000004.pdf",
+      "pageCount": 3,
+      "pageLinks": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000004/C09000004.pdf#page=1"
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000004/C09000004.pdf#page=2"
+        },
+        {
+          "page": 3,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000004/C09000004.pdf#page=3"
+        }
+      ],
+      "copyCitation": "U.S. Department of State, Embassy Santo Domingo, telegram 1991 SANTO 005951, “DOMINICAN REPATIRATION OF HAITIANS,” 1991-07-05, FOIA Library, case M-2014-23169, document C09000004, source PDF, pp. 1–3.",
+      "summary": "Ambassador Taylor reports his July 5 meeting with Balaguer about Dominican repatriation of Haitians, U.S. concerns over tensions and treatment, and Dominican–Haitian coordination.",
+      "relevance": "Directly addresses Haiti and Dominican–Haitian relations, repatriation, labor, and U.S. diplomatic representations.",
+      "textStatus": "Searchable embedded PDF text; not independently checked against the facsimile.",
+      "textNotice": "Search text may contain source OCR or local OCR errors. Blank, redacted, illegible, non-English, and handwriting content may not be searchable. No text was inferred or reconstructed from redactions. Page numbers are physical PDF pages, not printed page labels.",
+      "selectionDecision": "Pending compiler review; no final FRUS selection implied.",
+      "searchableText": [
+        {
+          "page": 1,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706254 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382075      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n                 CONFIDENTIAL\n      PAGE 01   SANTO 05951 052107Z                               RELEASED IN FULL\n      ACTION ARA-01\n\n       INFO LOG-00 ADS-00  AID-01 AMAD-01 CIAE-00 DODE-00 EB-01\n          HA-09  H-01  INRE-00 INR-01  1O-19  LAB-04  L-03\n          NSAE-00 NSCE-00 OIC-02 OMB-01 PA-01  PM-01  PRS-01\n           P-01  RP-10  SIL-01 SNP-01 SP-01  SR-01  SS-01\n          STR-18 TRSE-00 T-01   USIE-00  /082W\n                          7A2380 052107Z /38\n      P 052110Z JUL 91\n      FM AMEMBASSY SANTO DOMINGO\n      TO SECSTATE WASHDC PRIORITY 6325\n       INFO AMEMBASSY PORT AU PRINCE PRIORITY\n\n     CONFIDENTIALSANTODOMINGO 005951\n\n\n      FOR A/S ARONSON FROM AMBASSADOR PAUL TAYLOR\n\n        E.O. 12356: DECL:OADR\n       TAGS: PREL, PGOV, ELAB, PHUM, DR, HA\n       SUBJECT: DOMINICAN REPATIRATION OF HAITIANS\n\n       REF: STATE 216392\n\n          1. CONFIDENTIAL - ENTIRE TEXT.\n\n          2.  I MET WITH PRESIDENT JOAQUIN BALAGUER JULY 5 TO\n      CARRY OUT THE INSTRUCTIONS YOU SENT IN THE REFTEL.\n       TAKING THE INTELLIGENCE BRIEFING ON HAITI WE PROVIDED\n      JUST ONE WEEK EARLIER AS A POINT OF DEPARTURE, 1\n                 CONFIDENTIAL\n\n\n                 CONFIDENTIAL\n\n      PAGE 02   SANTO 05951 052107Z\n      EXPLAINED THAT I HAD BEEN INSTRUCTED TO RAISE THE ISSUE\n      OF THE DOMINICAN REPATRIATION OF HAITIANS.\n\n          3. AS A FRIEND OF BOTH COUNTRIES, I WENT ON, WE WERE\n      CONCERNED OVER WHAT APPEARED TO BE RISING TENSIONS\n      BETWEEN THE DOMINICAN REPUBLIC AND HAITI. ACCORDINGLY,\n        U.S. AMBASSADORS IN THE TWO COUNTRIES WERE MEETING WITH\n       THEIR HOST PRESIDENTS TO MAKE SIMILAR PRESENTATIONS.\n\n          4. WE RECOGNIZED THE SOVEREIGN RIGHT OF THE DOMINICAN\n      REPUBLIC TO CONTROL ITS BORDERS AND DID NOT QUESTION         REVIEW AUTHORITY:\n      THE RIGHT OF THE GODR TO REPATRIATE PERSONS ILLEGALLY          Charles Daris, Senior Reviewer\n        IN THE COUNTRY. WE ALSO RECOGNIZED THAT THE GODR WAS\n      ACTING IN RESPONSE TO WHAT IT CONSIDERED UNJUSTIFIED\n      ACCUSATIONS AND THREATS, INCLUDING SOME ACCUSATIONS\n      WHICH HAD BEEN AIRED BY GROUPS IN OUR COUNTRY.\n\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706254 Date: 11/22/2017"
+        },
+        {
+          "page": 2,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706254 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382075      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n          5. AT THE SAME TIME, WE RECOGNIZED THE POTENTIAL\n      DANGER OF AN INCIDENT THAT MIGHT OCCUR IN THE\n       REPATRIATION PROGRAM. FOR THAT REASON, WE NOTED WITH\n       SATISFACTION THAT HE HAD COUNSELED CAUTION AND STATED\n      THAT REPATRIATION WOULD BE A GRADUAL PROCESS. AT THIS\n       POINT, PRESIDENT BALAGUER RESPONDED THAT HE WAS INDEED\n      DOING EVERYTHING POSSIBLE TO AVOID INCIDENTS; HE WAS\n      MOVING SLOWLY IN THE REPATRIATION PROGRAM, AND HIS\n      GOVERNMENT WAS COORDINATING WITH THE GOVERNMENT OF\n        HAITI BY, FOR EXAMPLE, KEEPING THE GOH INFORMED IN\n      ADVANCE OF INTENDED REPATRIATIONS.  I ADDED THAT THE\n      PERSONNEL CARRYING OUT THIS PROGRAM NEEDED TO BE\n      CAREFULLY TRAINED AND SUPERVISED TO RESPECT THE RIGHTS\n      OF THE PERSONS BEING REPATRIATED. PRESIDENT BALAGUER\n                 CONFIDENTIAL\n\n                 CONFIDENTIAL\n\n      PAGE 03   SANTO 05951 052107Z\n      NODDED AGREEMENT.\n\n         6.  I STRESSED THAT WE BELIEVED IT IMPORTANT THAT THE\n      GOVERNMENTS OF HAITI AND THE DOMINICAN REPUBLIC WORK\n       DIRECTLY TOGETHER TO RESOLVE COMMON PROBLEMS. IN THIS\n      CONNECTION, I MENTIONED THAT THE RECENT MEETING IN ST.\n       KITTS BETWEEN THE TWO COUNTRIES' FOREIGN SECRETARIES\n       (SEPTEL) WAS HOPEFULLY A USEFUL STEP.\n\n          7. IN RESPONSE TO MY QUESTION OF HOW HE VIEWED THE\n      OUTLOOK FOR DOMINICAN RELATIONS WITH HAITI, PRESIDENT\n      BALAGUER SAID THE ANSWER WAS UP TO HAITI. HE SAID HIS\n      GOVERNMENT HAD PROPOSED BILATERAL AGREEMENTS ON TRADE\n      AND BRACEROS. IN THE LATTER CASE, HE SAID AN AGREEMENT\n      BETWEEN THE TWO GOVERNMENTS WAS NECESSARY, BECAUSE\n      WITHOUT ONE INTERMEDIARIES WOULD ONLY EXPLOIT HAITIANS\n      WORKING IN THE D.R. HE ALSO SAID THE TWO GOVERNMENTS\n      NEEDED TO TRY TO FIND SOME WAY TO REGULATE THE NUMBERS\n      OF HAITIANS IN THE DOMINICAN REPUBLIC. PRESIDENT\n      BALAGUER CONCLUDED THAT HIS GOVERNMENT WAS OPEN AND\n      READY TO NEGOTIATE; THE RESISTANCE HAD COME FROM THE\n       HAITIAN SIDE.\n\n          8. COMMENT: PRESIDENT BALAGUER WARMED TO THIS\n      PRESENTATION AS IT UNFOLDED. IT WAS AS IF AT THE\n      OUTSET HE HAD FEARED CRITICISM RATHER THAN COUNSEL. HE\n      SEEMED ESPECIALLY RELIEVED BY THE TALKING POINTS'\n       EXPLICIT RECOGNITION OF THE GODR'S SOVEREIGN RIGHT TO\n      CONTROL ITS BORDER AND REPATRIATE ILLEGAL ALIENS, A\n       POINT IN WHICH HE BELIEVES VERY STRONGLY. THE FURTHER\n      RECOGNITION THAT HIS GOVERNMENT WAS ACTING IN RESPONSE\n                 CONFIDENTIAL\n\n                 CONFIDENTIAL\n\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706254 Date: 11/22/2017"
+        },
+        {
+          "page": 3,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706254 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382075      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n      PAGE 04   SANTO 05951 052107Z\n      TO WHAT IT CONSIDERED UNJUSTIFIED ACCUSATIONS AND\n      THREATS ALSO HELPED. OUR CONCERN OVER AN UNFORTUNATE\n       INCIDENT IS ONE HE UNDOUBTEDLY SHARES. WE HAVE\n      PROBABLY REINFORCED HIS RESOLVE TO DO WHAT HE CAN TO\n      AVOID ONE. HIS LAST POINT IS A LITTLE LESS COMFORTING.\n      AS LONG AS HE AND OTHER SENIOR DOMINICANS THINK THEY\n      ARE PERFECTLY REASONABLE IN THEIR DEALINGS WITH HAITI\n       (OR IF HAITIANS THINK ONLY HAITIANS ARE REASONABLE) THE\n      PROSPECTS FOR REAL PROGRESS IN DIALOGUE WILL BE\n       DIMINISHED. TAYLOR\n\n\n                 CONFIDENTIAL\n\n\n\n\n\n      NNNN\n\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706254 Date: 11/22/2017"
+        }
+      ]
+    },
+    {
+      "id": "foia-2026-10-C09000007",
+      "title": "U.S. PRESIDENTIAL DELEGATION:   MEETING WITH PRESIDENT BALAGUER",
+      "repository": "U.S. Department of State FOIA Library",
+      "sourceLead": "source-foia-C09000007",
+      "date": "1990-08-20",
+      "status": "Reviewable lead; compiler selection pending",
+      "action": "A presidential-level U.S. delegation discusses Haiti, Haitian labor rights, and bilateral policy in the Caribbean.",
+      "caseNumber": "M-2014-23169",
+      "documentId": "C09000007",
+      "collection": "FOIA_M_Oct2026_3",
+      "postedDate": "2026-10-30",
+      "releaseBatch": "2026-10-30",
+      "reportingDateNote": "The cable is dated August 20, 1990 and reports Dole’s presidential-delegation visit for Balaguer’s August 16 inauguration.",
+      "documentType": "Telegram",
+      "sender": "Embassy Santo Domingo",
+      "messageNumber": "1990 SANTO 009934",
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000007/C09000007.pdf",
+      "pageCount": 6,
+      "pageLinks": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000007/C09000007.pdf#page=1"
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000007/C09000007.pdf#page=2"
+        },
+        {
+          "page": 3,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000007/C09000007.pdf#page=3"
+        },
+        {
+          "page": 4,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000007/C09000007.pdf#page=4"
+        },
+        {
+          "page": 5,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000007/C09000007.pdf#page=5"
+        },
+        {
+          "page": 6,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000007/C09000007.pdf#page=6"
+        }
+      ],
+      "copyCitation": "U.S. Department of State, Embassy Santo Domingo, telegram 1990 SANTO 009934, “U.S. PRESIDENTIAL DELEGATION:   MEETING WITH PRESIDENT BALAGUER,” 1990-08-20, FOIA Library, case M-2014-23169, document C09000007, source PDF, pp. 1–6.",
+      "summary": "A report on Secretary Elizabeth Dole’s presidential delegation meeting with Balaguer during the August 1990 inauguration visit. It covers Haiti, Haitian workers, the Generalized System of Preferences review, and U.S.–Dominican ties.",
+      "relevance": "A presidential-level U.S. delegation discusses Haiti, Haitian labor rights, and bilateral policy in the Caribbean.",
+      "textStatus": "Searchable embedded PDF text; not independently checked against the facsimile.",
+      "textNotice": "Search text may contain source OCR or local OCR errors. Blank, redacted, illegible, non-English, and handwriting content may not be searchable. No text was inferred or reconstructed from redactions. Page numbers are physical PDF pages, not printed page labels.",
+      "selectionDecision": "Pending compiler review; no final FRUS selection implied.",
+      "searchableText": [
+        {
+          "page": 1,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706263 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382086      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n       CONFIDENTIAL\n\n      PAGE 01   SANTO  09934 01 OF 02 201721Z\n                                                           RELEASED IN FULL      ACTION SIL-01\n\n       INFO LOG-00 ADS-00  AID-01  INR-05  CIAE-00 EB-01  DODE-00\n          H-01  EXIM-06 NSCE-00 ARA-01 NSAE-00 COME-00 SSO-01\n          HA-09  LAB-04 CTME-00 TRSE-00 ITC-01  OPIC-08 OMB-01\n          STR-18  INRE-00 AGRE-00 FRB-03 RP-10  USIE-00 JUSE-00\n          SP-01  SR-01  C-01   E-01   P-02   /077 W\n                            250126 201751Z /46\n     O 201721Z AUG 90\n      FM AMEMBASSY SANTO DOMINGO\n      TO SECSTATE WASHDC IMMEDIATE 9972\n      USDOLABOR WASHDC IMMEDIATE\n       INFO AMEMBASSY PORT AU PRINCE\n\n     CONFIDENTIAL SECTION 01 OF 02 SANTO DOMINGO 09934\n\n        E. O. 12356: DECL: OADR\n       TAGS: DR, ELAB, HA, PGOV, PREL, OVIP (DOLE, ELIZABETH H.)\n       SUBJ: U.S. PRESIDENTIAL DELEGATION: MEETING WITH\n                .  PRESIDENT BALAGUER\n\n          1. CONFIDENTIAL - ENTIRE TEXT.\n\n          2. SUMMARY: IN A CORDIAL BUT FRANK MEETING WITH\n      PRESIDENT BALAGUER, SECRETARY DOLE REVIEWED THE POSITIVE\n      STATE OF U.S.-DOMINICAN RELATIONS. SHE STRESSED THE\n      SERIOUSNESS OF THE CURRENT GSP REVIEW CENTERED ON\n      ALLEGED ABUSES OF THE RIGHTS OF HAITIAN WORKERS IN THE\n      DOMINICAN SUGAR INDUSTRY AND URGED PRESIDENT BALAGUER TO\n      HAVE HIS GOVERNMENT ENGAGE SOON WITH U.S. OFFICIALS TO\n      ADDRESS ALLEGATIONS RAISED IN THE GSP PETITION.\n      PRESIDENT BALAGUER ACKNOWLEDGED THAT CONDITIONS ON CANE\n      PLANTATIONS WERE POOR FOR BOTH HAITIAN AND DOMINICAN\n      WORKERS. HE SAID THE NECESSARY IMPROVEMENTS IN HOUSING,\n      HEALTH FACILITIES AND SCHOOLS HAD NOT BEEN POSSIBLE\n      BECAUSE THE STATE SUGAR COMPANY WAS PRACTICALLY BANKRUPT\n      LARGELY AS A RESULT OF SHARP CUTS IN THE U.S. SUGAR\n       CONFIDENTIAL\n\n       CONFIDENTIAL\n\n      PAGE 02   SANTO  09934 01 OF 02 201721Z\n\n      IMPORT QUOTA. HE PLEDGED, THOUGH, TO DESIGNATE\n       OFFICIALS TO WORK WITH U.S. AUTHORITIES AND TO HELP IN\n      ANY WAY POSSIBLE TO ADDRESS THE ISSUES RAISED IN THE GSP\n       PETITION. END SUMMARY.\n\n          3. SECRETARY OF LABOR ELIZABETH DOLE, HEAD OF THE U.S.\n       PRESIDENTIAL DELEGATION TO THE DOMINICAN INAUGURAL,\n      MRS. NANCY BUSH ELLIS AND THE AMBASSADOR MET AUGUST 17\n      WITH PRESIDENT JOAQUIN BALAGUER FOR FORTY-FIVE MINUTES.\n       (MRS. ELLIS, THE PRESIDENT'S SISTER, WAS SPECIFICALLY\n\n                                        REVIEW AUTHORITY:  Charles Daris, Senior Reviewer\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706263 Date: 11/22/2017"
+        },
+        {
+          "page": 2,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706263 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382086      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n       INVITED TO THE MEETING BY PRESIDENT BALAGUER.)\n      SECRETARY DOLE THANKED PRESIDENT BALAGUER FOR THE\n       HOSPITALITY HIS GOVERNMENT HAD PROVIDED THE DELEGATION\n      AND BOTH SECRETARY DOLE AND MRS. ELLIS WARMLY\n      CONGRATULATED PRESIDENT BALAGUER ON BEHALF OF PRESIDENT\n      BUSH ON HIS REELECTION.\n\n          4. SECRETARY DOLE EXPRESSED HER PERSONAL SATISFACTION\n      THAT SHE WAS ABLE TO MEET WITH ONE OF THE HEMISPHERE'S\n      MOST SENIOR DEMOCRATIC STATESMEN. SHE NOTED THAT THE\n      DOMINICAN REPUBLIC HAD SUCCEEDED BETTER THAN ANY OTHER\n      COUNTRY IN TAKING ADVANTAGE OF THE INCENTIVES OFFERED BY\n      THE CARIBBEAN BASIN INITIATIVE AND OBSERVED THAT THE\n        INITIATIVE FOR THE AMERICAS PROPOSED BY PRESIDENT BUSH\n      COULD PROVE EVEN MORE IMPORTANT TO THE DOMINICAN\n      REPUBLIC THAN THE CBI. SHE ALSO PRAISED THE\n      COMPREHENSIVE ECONOMIC PROGRAM RECENTLY IMPLEMENTED BY\n      PRESIDENT BALAGUER AND EXPRESSED OUR EXPECTATION THAT IT\n     WOULD PREPARE THE WAY FOR A RETURN TO ECONOMIC GROWTH.\n      SHE COMMENTED, TOO, THAT WE VERY MUCH VALUED THE CLOSE\n       BILATERAL TIES THAT UNITED OUR COUNTRIES AND ADMIRED THE\n       EFFECTIVE DOMINICAN COOPERATION IN THE WAR AGAINST\n      NARCOTICS TRAFFICKERS.\n       CONFIDENTIAL\n\n       CONFIDENTIAL\n\n      PAGE 03   SANTO  09934 01 OF 02 201721Z\n\n          5. SECRETARY DOLE SAID SHE ALSO WISHED TO CONVEY TO\n      PRESIDENT BALAGUER THE CONGRATULATIONS OF FORMER\n      PRESIDENT CARTER WITH WHOM SHE HAD SPOKEN RECENTLY.\n      PRESIDENT BALAGUER THANKED HER FOR THAT MESSAGE AND\n      COMMENTED THAT PRESIDENT CARTER HAD PERFORMED AN\n      IMPORTANT SERVICE BY COORDINATING AN OBSERVER EFFORT\n      DURING THE RECENT ELECTIONS. SECRETARY DOLE RECALLED\n      THAT PRESIDENT CARTER HAD RECOMMENDED THAT SHE VISIT THE\n      COLUMBUS LIGHTHOUSE AND SHE AND HER DELEGATION HAD DONE\n      SO THE PREVIOUS DAY. SHE DESCRIBED THE STRUCTURE AS\n       IMPRESSIVE AND COMMENTED ON THE RELIGIOUS MOTIF IT\n      INCORPORATED AND ON PRESIDENT BALAGUER'S REFERENCES TO\n       HIS OWN RELIGIOUS FAITH IN HIS INAUGURAL ADDRESS.\n      PRESIDENT BALAGUER SEEMED MOVED BY THE MENTION OF THE\n      LIGHTHOUSE AND HE REVIEWED ITS ARCHITECTURAL HISTORY AND\n       HIS HOPES FOR HAVING THE PROJECT FIGURE PROMINENTLY IN\n      THE CELEBRATION IN 1992 OF THE FIFTH CENTENNIAL OF\n      COLUMBUS' ARRIVAL IN THE AMERICAS.\n\n         6. SECRETARY DOLE SAID THAT THE TREATMENT OF HAITIAN\n      WORKERS IN THE DOMINICAN REPUBLIC WAS BEING REVIEWED BY\n      THE GSP SUBCOMMITTEE, WHICH WOULD HAVE TO REACH A\n      CONCLUSION BY NEXT APRIL. THAT RECOMMENDATION COULD\n      AFFECT NOT ONLY GSP TREATMENT FOR DOMINICAN EXPORTS BUT\n      COULD ALSO AFFECT OPIC PROGRAMS HERE AND, POSSIBLY, CBI\n       BENEFITS. IN ADDITION, CONGRESSIONAL COMMITTEES WERE\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706263 Date: 11/22/2017"
+        },
+        {
+          "page": 3,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706263 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382086      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n      CONSIDERING TWO LEGISLATIVE MEASURES TIED TO ALLEGED\n      MISTREATMENT OF HAITIAN WORKERS IN THE DOMINICAN\n       REPUBLIC. ONE PROPOSAL WOULD REDUCE THE QUOTA ON\n      IMPORTS OF DOMINICAN SUGAR INTO THE U.S. AND THE OTHER\n     WOULD EARMARK $1 MILLION OF ECONOMIC ASSISTANCE FOR\n      EDUCATIONAL AND HOUSING PROGRAMS FOR HAITIAN WORKERS IN\n      THE D.R. THESE PROPOSALS HAD NOT BEEN APPROVED YET, BUT\n      THE EARMARK COULD BE.\n\n       CONFIDENTIAL\n\n       CONFIDENTIAL\n\n      PAGE 04   SANTO  09934 01 OF 02 201721Z\n\n\n\n\n\n       CONFIDENTIAL\n\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706263 Date: 11/22/2017"
+        },
+        {
+          "page": 4,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706263 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382086      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n\n\n      NNNN\n\n       CONFIDENTIAL\n\n      PAGE 01   SANTO  09934 02 OF 02 201748Z\n      ACTION SIL-01\n\n       INFO LOG-00 ADS-00  AID-01  INR-05  CIAE-00 EB-01  DODE-00\n          H-01  EXIM-06 NSCE-00 ARA-01 NSAE-00 COME-00 SSO-01\n          HA-09  LAB-04 CTME-00 TRSE-00 ITC-01  OPIC-08 OMB-01\n          STR-18  INRE-00 AGRE-00 FRB-03 RP-10  USIE-00 JUSE-00\n          SP-01  SR-01  C-01   E-01   P-02   /077 W\n                            250357 201751Z /46\n     O 201721Z AUG 90\n      FM AMEMBASSY SANTO DOMINGO\n      TO SECSTATE WASHDC IMMEDIATE 9973\n      USDOLABOR WASHDC IMMEDIATE\n       INFO AMEMBASSY PORT AU PRINCE\n\n     CONFIDENTIAL SECTION 02 OF 02 SANTO DOMINGO 09934\n\n        E. O. 12356: DECL: OADR\n       TAGS: DR, ELAB, HA, PGOV, PREL, OVIP (DOLE, ELIZABETH H.)\n       SUBJ: U.S. PRESIDENTIAL DELEGATION: MEETING WITH\n\n          7. SECRETARY DOLE REPORTED THAT SHE HAD VISITED A SUGAR\n      PLANTATION TWO DAYS EARLIER TO GET A FIRST-HAND\n      IMPRESSION OF CONDITIONS THERE. SHE EXPRESSED HER HOPE\n      THAT THIS KNOWLEDGE WOULD BE HELPFUL IN THE\n       DELIBERATIONS IN WASHINGTON OVER THE GSP PETITION THAT A\n     HUMAN RIGHTS GROUP HAD SUBMITTED. SHE ADDED THAT THE\n       PETITION INCLUDED OTHER ISSUES, SUCH AS UNIONIZATION OF\n      WORKERS IN FREE TRADE ZONES, BUT THE CENTERPIECE WAS THE\n      TREATMENT OF HAITIAN WORKERS IN THE SUGAR INDUSTRY. SHE\n      URGED PRESIDENT BALAGUER TO HAVE HIS PEOPLE GET TOGETHER\n      WITH U.S. EXPERTS TO BEGIN A SERIOUS EXAMINATION OF THE\n       ISSUES AND SEEK SOLUTIONS BEFORE IT WAS TOO LATE. SHE\n      ADDED THAT A NEGATIVE DECISION BY THE GSP SUBCOMMITTEE\n     WOULD BE DISASTROUS FOR BOTH COUNTRIES.\n\n          8. PRESIDENT BALAGUER ACKNOWLEDGED THAT THE ISSUE OF\n      THE TREATMENT OF WORKERS IN THE SUGAR INDUSTRY WAS\n       CONFIDENTIAL\n\n       CONFIDENTIAL\n\n      PAGE 02   SANTO  09934 02 OF 02 201748Z\n\n       IMPORTANT. HE EXPLAINED THAT THE DOMINICAN INDUSTRY\n      DEPENDED ON HAITIAN WORKERS BECAUSE DOMINICANS AVOIDED\n      CUTTING CANE PREFERRING, INSTEAD, TO WORK IN RICE OR\n      OTHER CROPS. HE RECALLED THAT PREVIOUS GOVERNMENTS HAD\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706263 Date: 11/22/2017"
+        },
+        {
+          "page": 5,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706263 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382086      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n      HAD BILATERAL AGREEMENTS WITH HAITI TO GOVERN THE\n      RECRUITMENT OF WORKERS IN HAITI. DURING THE DUVALIER\n       DICTATORSHIP, THE GOVERNMENT OF HAITI HAD BEEN PAID UP\n      TO FIVE DOLLARS FOR EACH WORKER THAT IT SUPPLIED.\n      RECENTLY, THE DOMINICAN REPUBLIC HAD EXPERIENCED A\n       \"VIRTUAL INVASION\" OF HAITIANS, WITH PROBABLY A MILLION\n     NOW IN THE COUNTRY. THESE ILLEGAL IMMIGRANTS\n      REPRESENTED A SERIOUS BURDEN, INCREASING INTER ALIA THE\n      FOOD REQUIREMENTS OF THE COUNTRY. MANY OF THE HAITIANS\n      TOOK WORK IN AREAS OTHER THAN CANE CUTTING, AND IN THE\n      LAST HARVEST THERE WAS A SERIOUS SHORTAGE OF CANE\n       CUTTERS.\n\n          9. PRESIDENT BALAGUER DESCRIBED LIVING CONDITIONS IN\n      THE CANE PLANTATIONS AS BAD AND SAID MORE SCHOOLS AND\n      HEALTH FACILITIES WERE NEEDED. HOUSING ALSO NEEDED\n      IMPROVEMENT. A SERIOUS PROBLEM, THOUGH, WAS THAT THE\n      SUGAR INDUSTRY HAD SUFFERED SETBACKS IN RECENT YEARS,\n       PRINCIPALLY AS A CONSEQUENCE OF SHARP DECREASES IN THE\n        U.S. SUGAR IMPORT QUOTA. THE STATE SUGAR COMPANY WAS ON\n      THE VERGE OF BANKRUPTCY HAVING SUSTAINED LOSSES IN SOME\n      RECENT YEARS IN EXCESS OF ONE BILLION PESOS (COMMENT:\n           I.E., SOME U.S. $140 MILLION USING THE EXCHANGE RATE IN\n      EFFECT UNTIL APRIL, 1990.) A CONTRACT HAD BEEN SIGNED\n      RECENTLY WITH CARGILL FOR $20 MILLION WORTH OF SUGAR\n     FROM THE 1991 HARVEST. WITH THESE PROBLEMS FOR THE\n      STATE SUGAR COMPANY, IT HAD BEEN ALMOST IMPOSSIBLE TO\n      MAKE ANY PROGRESS ON IMPROVING LIVING CONDITIONS FOR\n      CANE WORKERS. THESE SAME BAD CONDITIONS APPLIED TO MANY\n       CONFIDENTIAL\n\n       CONFIDENTIAL\n\n      PAGE 03   SANTO  09934 02 OF 02 201748Z\n\n       DOMINICANS, TOO, INCLUDING THOSE LIVING IN SANTO DOMINGO\n      AND OTHER URBAN AREAS. THE COUNTRY WAS GENERALLY POOR\n      AND MISERABLE.\n\n         10. PRESIDENT BALAGUER COMMENTED THAT SECRETARY DOLE\n      HAD PROPOSED A BILATERAL COMMISSION (SIC) TO ADDRESS\n       ISSUES OF WORKERS RIGHTS AND HE WAS GLAD TO AGREE. HE\n      OFFERED ANY COOPERATION THAT HE AND HIS GOVERNMENT COULD\n      PROVIDE AND ASKED HOW WE COULD PROCEED. SECRETARY DOLE\n      RESPONDED THAT THE AMBASSADOR COULD MAKE ARRANGEMENTS\n      FOR THE FIRST MEETING OF OFFICIALS FROM THE TWO\n      GOVERNMENTS. AGREEING WITH THAT SUGGESTION, PRESIDENT\n      ALAGUER COMMENTED THAT THERE SEEMED TO BE AN\n       INTERNATIONAL CAMPAIGN 8Y HAITIANS LIVING IN CANADA AND\n      ELSEWHERE TO DEFAME THE DOMINICAN REPUBLIC. HE\n      ACKNOWLEDGED, THOUGH, THAT THERE WERE REAL PROBLEMS\n      FACING HAITIANS AND DOMINICANS LIVING IN THE DOMINICAN\n       REPUBLIC, AND HE PLEDGED TO DO ALL HE COULD TO REMEDY\n       THEM.\n\n         11. IN CLOSING, PRESIDENT BALAGUER ASKED HIS VISITORS\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706263 Date: 11/22/2017"
+        },
+        {
+          "page": 6,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706263 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382086      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n      TO CONVEY TO PRESIDENT BUSH HIS GRATITUDE FOR THE HIGH\n       QUALITY AND LEVEL OF THE DELEGATION THE PRESIDENT HAD\n       SENT. HE INVITED THE VISITORS TO RETURN TO THE\n      DOMINICAN REPUBLIC AND EXPRESSED HIS HOPE THAT SENATOR\n      DOLE WOULD ALSO COME NEXT TIME. MRS. ELLIS TOLD\n      PRESIDENT BALAGUER THAT SHE HAD BEEN PLEASED THE NIGHT\n      BEFORE TO MEET HIS SISTER, EMMA. SHE SAID THEY HAD\n      AGREED THAT THEY BOTH HAD VERY SPECIAL BROTHERS.\n      TAYLOR\n\n\n\n\n\n       CONFIDENTIAL\n\n\n\n\n\n      NNNN\n\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706263 Date: 11/22/2017"
+        }
+      ]
+    },
+    {
+      "id": "foia-2026-10-C09000008",
+      "title": "OFFICIAL-INFORMAL:  THE OUTLOOK FOR ELECTIONS IN THE DOMINICAN REPUBLIC",
+      "repository": "U.S. Department of State FOIA Library",
+      "sourceLead": "source-foia-C09000008",
+      "date": "1990-04-11",
+      "status": "Reviewable lead; compiler selection pending",
+      "action": "Embassy reporting connects Dominican electoral developments to U.S. democracy policy and planned diplomatic action.",
+      "caseNumber": "M-2014-23169",
+      "documentId": "C09000008",
+      "collection": "FOIA_M_Oct2026_3",
+      "postedDate": "2026-10-30",
+      "releaseBatch": "2026-10-30",
+      "reportingDateNote": "The report is dated April 11, 1990 and discusses the upcoming May 16 election; April 11 is not the election date.",
+      "documentType": "Telegram",
+      "sender": "Embassy Santo Domingo",
+      "messageNumber": "1990 SANTO 004161",
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000008/C09000008.pdf",
+      "pageCount": 6,
+      "pageLinks": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000008/C09000008.pdf#page=1"
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000008/C09000008.pdf#page=2"
+        },
+        {
+          "page": 3,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000008/C09000008.pdf#page=3"
+        },
+        {
+          "page": 4,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000008/C09000008.pdf#page=4"
+        },
+        {
+          "page": 5,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000008/C09000008.pdf#page=5"
+        },
+        {
+          "page": 6,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000008/C09000008.pdf#page=6"
+        }
+      ],
+      "copyCitation": "U.S. Department of State, Embassy Santo Domingo, telegram 1990 SANTO 004161, “OFFICIAL-INFORMAL:  THE OUTLOOK FOR ELECTIONS IN THE DOMINICAN REPUBLIC,” 1990-04-11, FOIA Library, case M-2014-23169, document C09000008, source PDF, pp. 1–6.",
+      "summary": "Ambassador Taylor assesses the Dominican presidential election scheduled for May 16, including candidates, the electoral process, and U.S. planning to support a fair vote and transition.",
+      "relevance": "Embassy reporting connects Dominican electoral developments to U.S. democracy policy and planned diplomatic action.",
+      "textStatus": "Searchable embedded PDF text; not independently checked against the facsimile.",
+      "textNotice": "Search text may contain source OCR or local OCR errors. Blank, redacted, illegible, non-English, and handwriting content may not be searchable. No text was inferred or reconstructed from redactions. Page numbers are physical PDF pages, not printed page labels.",
+      "selectionDecision": "Pending compiler review; no final FRUS selection implied.",
+      "searchableText": [
+        {
+          "page": 1,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706264 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382089      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n       CONFIDENTIAL\n      PAGE 01   SANTO 04161 01 OF 03 112136Z                    RELEASED IN FULL\n      ACTION ARA-01\n\n       INFO LOG-00 ADS-00 SSO-01 ONY-00  /002 W\n                            213754 112147Z/38\n      P 112134Z APR 90\n      FM AMEMBASSY SANTO DOMINGO\n      TO SECSTATE WASHDC PRIORITY 7033\n\n     CONFIDENTIAL SECTION 01 OF 03 SANTO DOMINGO 04161\n\n      FOR ARA ASSISTANT SECRETARY ARONSON\n     FROM AMBASSADOR PAUL TAYLOR\n\n        E.O. 12356: DECL:OADR\n       TAGS: AMGT, DR\n       SUBJECT: OFFICIAL-INFORMAL: THE OUTLOOK FOR\n           -    ELECTIONS IN THE DOMINICAN REPUBLIC\n\n          1. CONFIDENTIAL - ENTIRE TEXT.\n\n\n      PROBABLE WINNERS\n\n\n          2. WITH VOTERS SCHEDULED TO GO TO THE POLLS IN ABOUT\n      A MONTH ON MAY 16, I WOULD LIKE TO GIVE YOU MY\n      ASSESSMENT OF WHAT LIES AHEAD. WHILE MORE THAN TEN\n     MEN ARE OFFICIALLY INSCRIBED AS CANDIDATES FOR THE\n       PRESIDENCY, ONLY TWO, PRESIDENT JOAQUIN BALAGUER AND\n      FORMER PRESIDENT JUAN BOSCH, ARE SEEN AS HAVING A\n       REALISTIC CHANCE OF ELECTION. INTERESTINGLY, THE\n      PROSPECTS OF EITHER OF THESE OCTOGENARIANS DEPEND\n       MAINLY ON THE CHANGING STRENGTH OF OTHER CANDIDATES.\n     NO ONE IS EXPECTED TO WIN A MAJORITY; UNDER THE\n      DOMINICAN CONSTITUTION A PLURALITY, HOWEVER MODEST,\n       WILL SUFFICE.\n\n       CONFIDENTIAL\n\n       CONFIDENTIAL\n\n      PAGE 02   SANTO 04161 01 OF 03 112136Z\n\n          3. JUAN BOSCH NOW LEADS IN ALL THE POLLS BECAUSE\n      DOMINICANS ARE FED UP WITH SHORTAGES OF ELECTRICITY\n       (DELIVERY DIPPED WELL BELOW 50 PERCENT OF DEMAND FOR\n      SEVERAL DAYS RECENTLY), INFLATION AND GOVERNMENT\n      CORRUPTION. BOSCH'S DOMINICAN LIBERATION PARTY IS\n      ALSO FAR BETTER ORGANIZED TODAY THAN THE GOVERNING\n       SOCIAL CHRISTIAN REFORMIST PARTY. BALAGUER'S\n      SUPPORTERS TAKE HEART IN RECALLING THAT BOSCH HAS LED\n      THE POLLS IN PREVIOUS ELECTIONS, THAT CAMPAIGN\n      PROSPECTS USUALLY CHANGE AFTER HOLY WEEK AND THAT\n\n                             REVIEW AUTHORITY:  Charles Daris, Senior Reviewer\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706264 Date: 11/22/2017"
+        },
+        {
+          "page": 2,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706264 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382089      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n      BALAGUER'S APPEAL AS A CHARISMATIC FATHER FIGURE MAY\n       PREVAIL OVER BOSCH'S PEDANTIC STYLE AND MARXIST\n       IMAGE. NO ONE CAN SAY WITH CERTAINTY AT THIS JUNCTURE\n     HOW IT WILL COME OUT, BUT BALAGUER'S STRENGTHS AND\n      BOSCH'S WEAKNESSES SEEM TO MANY OBSERVERS LESS\n      COMPELLING IN 1990 THAN IN PREVIOUS CONTESTS.\n\n          4. THE MAIN DETERMINANT IN THE PRESIDENTIAL RACE MAY\n      BE THE CANDIDACY OF JOSE FRANCISCO PENA GOMEZ WHO,\n      WHILE GIVEN LITTLE CHANCE OF ACHIEVING A PLURALITY,\n      MAY DIVIDE THE OPPOSITION ENOUGH TO REELECT THE\n       PRESIDENT. IF THE DOMINICAN REVOLUTIONARY PARTY HAD\n      NOT BEEN DEVASTATED BY THE INTENSE PERSONAL RIVALRY\n      BETWEEN PENA AND FORMER VICE PRESIDENT AND INTERIM\n      PRESIDENT JACOBO MAJLUTA, THIS PARTY WOULD BE THE ODDS\n     ON FAVORITE TODAY TO FORM A GOVERNMENT FOR ITS THIRD\n      FOUR YEAR TERM SINCE 1978. (REGRETTABLY, WHILE\n      ELECTING PRESIDENTS FOR 24 YEARS, NO DOMINICAN\n       POLITICAL PARTY HAS INSTITUTIONALIZED SUFFICIENTLY TO\n      OVERCOME THE TRADITIONAL PERSONALISMO.)\n\n\n      THE PROCESS\n       CONFIDENTIAL\n\n       CONFIDENTIAL\n\n      PAGE 03   SANTO 04161 01 OF 03 112136Z\n\n\n          5. WE EXPECT THE CAMPAIGN TO PROCEED REASONABLY\n      PEACEFULLY AND THE VOTING TO BE CONDUCTED FAIRLY.\n      DOMINICANS HAVE ONE OF THE LONGER DEMOCRATIC\n       TRADITIONS IN THE HEMISPHERE. ON THE TWO OCCASIONS,\n      THOUGH, WHEN VOTERS OPTED FOR A PRESIDENTIAL CANDIDATE\n      OF THE OPPOSITION IN 1978 AND 1986, THE INCUMBENT\n      GOVERNMENT NEEDED PRESSURE FROM THE CATHOLIC CHURCH\n      AND THE U.S. GOVERNMENT TO HONOR THE OUTCOME. THIS\n        TIME, WE ARE IN CLOSE TOUCH WITH ALL THE PRINCIPAL\n      ACTORS HERE, WILL HAVE EMBASSY OFFICERS FANNED OUT\n      AROUND THE COUNTRY TO OBSERVE VOTING AND THE VOTE\n      COUNT, AND WILL BE PREPARED TO WEIGH IN AS NECESSARY,\n        IN CONSULTATION WITH YOU AND THE BUREAU.\n\n         6. DESPITE HOSTILE RELATIONS BETWEEN SOME MILITARY\n      OFFICERS AND JUAN BOSCH DATING BACK TO THE 1960'S AND\n      CURRENT RUMORS OF PLOTTING, WE DO NOT EXPECT ANY\n      SERIOUS MILITARY EFFORT TO DENY BOSCH THE PRESIDENCY\n      SHOULD HE WIN A PLURALITY OF THE VOTE. SOME KEY\n      OFFICERS MIGHT REACT, THOUGH, WITH FOLDED ARMS TO A\n        CIVILIAN ATTEMPT TO THWART BOSCH'S ACCESSION TO OFFICE.\n\n      THE U.S. STAKE\n\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706264 Date: 11/22/2017"
+        },
+        {
+          "page": 3,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706264 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382089      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n\n          7. THE ELECTION IS LIKELY TO SERVE OUR FIRST\n       OBJECTIVE HERE: THE STRENGTHENING OF DEMOCRACY. NOT\n\n\n\n\n\n       CONFIDENTIAL\n\n\n\n\n\n      NNNN\n\n       CONFIDENTIAL\n\n      PAGE 01   SANTO 04161 02 OF 03 112137Z\n      ACTION ARA-01\n\n       INFO LOG-00 ADS-00 SSO-01 ONY-00  /002 W\n                            213773 112148Z/38\n      P 112134Z APR 90\n      FM AMEMBASSY SANTO DOMINGO\n      TO SECSTATE WASHDC PRIORITY 7034\n\n     CONFIDENTIAL SECTION 02 OF 03 SANTO DOMINGO 04161\n\n      FOR ARA ASSISTANT SECRETARY ARONSON\n     FROM AMBASSADOR PAUL TAYLOR\n\n        E.O. 12356: DECL:OADR\n       TAGS: AMGT, DR\n       SUBJECT: OFFICIAL-INFORMAL: THE OUTLOOK FOR\n           -    ELECTIONS IN THE DOMINICAN REPUBLIC\n\n      ONLY IS THE PROCESS MOVING WELL, OUR POSTURE HAS BEEN\n      UNIVERSALLY PERCEIVED AS NEUTRAL AMONG CANDIDATES AND\n      RESPECTFUL OF THE DOMINICANS' RIGHT TO DECIDE THEIR\n      LEADERSHIP WITHOUT OUTSIDE INTERFERENCE.\n\n          8. THE DIFFERENCE BETWEEN BOSCH AND BALAGUER HAS\n      RECEDED TO THE POINT THAT MANY BELIEVE EACH WOULD\n      FAVOR THE OTHER OVER ANY ALTERNATIVE CANDIDATE. THEY\n      SHARE A MENTALITY BASED ON AGE THAT OVERCOMES ANY\n       LINGERING IDEOLOGICAL FRICTIONS.\n\n          9. SPEAKING TO THE AMERICAN CHAMBER OF COMMERCE\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706264 Date: 11/22/2017"
+        },
+        {
+          "page": 4,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706264 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382089      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n       APRIL 4 BOSCH SHOWED THAT HIS TEAM COULD COLLABORATE\n      TO PRODUCE A PROGRAM THAT WAS COHERENT, COMPREHENSIVE,\n      AND TECHNICALLY SOUND. BALAGUER HAS NOT COME UP WITH\n      ANY SIMILAR EXAMPLES OF RELIANCE ON HIS STAFF BUT\n        THIS, HIS GREATEST WEAKNESS, ALSO HAS A STRENGTH. HIS\n       POLITICAL DEFTNESS IN MANAGING ISSUES LIKE THE 80\n      PERCENT PRICE INCREASE FOR GASOLINE LAST OCTOBER\n       CONFIDENTIAL\n\n       CONFIDENTIAL\n\n      PAGE 02   SANTO 04161 02 OF 03 112137Z\n\n      WITHOUT BLOODSHED HAS MAINTAINED DOMESTIC TRANQUILITY\n      AND LIBERTIES DESPITE PROFOUND ECONOMIC PROBLEMS. THE\n       BENEFITS TO AN ECONOMY RELIANT ON THE LARGEST TOURIST\n      INDUSTRY AND FREE ZONE OPERATIONS IN THE CARIBBEAN\n       BASIN ARE EVIDENT. BOSCH HAS NO TRACK RECORD OF\n       SIMILAR POLITICAL TALENT, AND MANY RECALL HIS MONTHS\n        IN OFFICE AS DISASTROUSLY INEPT.\n\n         10. ONE BIT OF PROGRESS TO EMERGE SURPRISINGLY IN THE\n      HEAT OF THE CAMPAIGN IS AN INCIPIENT CONSENSUS ON THE\n      NEED FOR AN IMF AGREEMENT. BOTH BALAGUER AND BOSCH\n      HAD OPPOSED THIS STEP EARLIER, BUT THE PRESIDENT SAID\n      LAST MONTH THE NEXT GOVERNMENT WOULD HAVE TO GO TO THE\n       FUND, AND BOSCH HAS REFRAINED FROM ATTACKING THE\n      SUGGESTION. THIS STEP SHOULD HAVE BEEN TAKEN WELL\n      BEFORE NOW, BECAUSE WITH A FUND AGREEMENT AND\n       RELATIVELY MODEST ADJUSTMENT, THE COUNTRY COULD\n      RESCHEDULE ITS DEBT, PROBABLY NEGOTIATE SOME DEBT\n       RELIEF A LA COSTA RICA AND TURN AROUND ITS\n       INTERNATIONAL ACCOUNTS.\n\n         11. WE HOPE THE EXEMPLARY COOPERATION OF THE\n      DOMINICAN REPUBLIC IN THE WAR AGAINST NARCOTICS CAN BE\n       CONTINUED. NEITHER BALAGUER NOR BOSCH HAS SHOWN ANY\n      SYMPATHY FOR TRAFFICKERS (PENA IS THOUGHT TO HAVE\n      RECEIVED FINANCIAL SUPPORT FROM NORIEGA, BUT WE HAVE\n     NO EVIDENCE OF A DRUG LINK). MY BIGGEST FEAR IS THAT\n      BOSCH'S HOSTILITY TO THE U.S. MILITARY, WHICH HE HOLDS\n      RESPONSIBLE FOR KEEPING HIM IN 1965 FROM THE\n      PRESIDENCY TO WHICH HE HAD BEEN ELECTED, COULD MAKE\n       HIM RELUCTANT TO CONTINUE THE GENEROUS ACCESS TO THREE\n      RADAR SITES AND AIRCRAFT STAGING FACILITIES THAT WE\n      CURRENTLY ENJOY.\n       CONFIDENTIAL\n\n       CONFIDENTIAL\n\n      PAGE 03   SANTO 04161 02 OF 03 112137Z\n\n         12. ON FOREIGN RELATIONS, BALAGUER WOULD CONTINUE THE\n       KIND OF CLOSE SUPPORT HE HAS SHOWN US IN HIS VOCAL\n       OPPOSITION TO NORIEGA, HIS EARLY RECOGNITION OF\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706264 Date: 11/22/2017"
+        },
+        {
+          "page": 5,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706264 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382089      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n      ENDARA, HELP IN THE U.N. AND ON THE MIRAMBEAUX CASE.\n      BOSCH CLAIMS HE WANTS GOOD RELATIONS, MAINLY BECAUSE\n      HE HAS BEEN KEEN TO DISPEL THE BELIEF THAT THE U.S.\n     WOULD NOT WORK WITH HIM. HIS CLOSE PERSONAL TIES TO\n       CUBA, THOUGH, BEGAN BEFORE FIDEL'S ARRIVAL ON THE\n      SCENE AND HAVE CONTINUED STRONG SINCE. BOSCH PROBABLY\n     WOULD WANT TO ESTABLISH FORMAL DIPLOMATIC RELATIONS\n      WITH CUBA BUT WOULD MOVE CAUTIOUSLY TO CONSOLIDATE HIS\n      NEW, MODERATE IMAGE. AMONG THE PRINCIPAL CANDIDATES,\n      PENA HAS BEEN THE MOST OUTSPOKEN CRITIC OF U.S.\n       POLICIES IN CUBA, NICARAGUA, AND PANAMA.\n\n\n      RECOMMENDATIONS\n\n         13. FIRST, WE SHOULD DO THE OBVIOUS AND MAINTAIN THE\n       STRICTEST NEUTRALITY AMONG CANDIDATES, APPLAUD ANOTHER\n      EXERCISE OF DEMOCRATIC CHOICE AND STAND READY TO SPEAK\n      FORCEFULLY IN FAVOR OF A FAIR VOTE COUNT AND\n       TRANSITION SHOULD THE NEED ARISE.\n\n         14. WE SHOULD MOVE RAPIDLY TO ARRANGE A MEETING\n      BETWEEN THE VICTOR AND PRESIDENT BUSH, PERHAPS SOON\n      AFTER THE INAUGURAL AUGUST 16. GIVEN VICE PRESIDENT\n       QUAYLE'S PARTICIPATION IN OTHER INAUGURALS IN THE\n      HEMISPHERE, HE WILL BE EXPECTED HERE AND SHOULD COME.\n\n\n\n\n\n       CONFIDENTIAL\n\n\n\n\n\n      NNNN\n\n       CONFIDENTIAL\n\n      PAGE 01   SANTO 04161 03 OF 03 112137Z\n      ACTION ARA-01\n\n       INFO LOG-00 ADS-00 SSO-01 ONY-00  /002 W\n                            214010 112148Z /38\n      P 112134Z APR 90\n      FM AMEMBASSY SANTO DOMINGO\n      TO SECSTATE WASHDC PRIORITY 7035\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706264 Date: 11/22/2017"
+        },
+        {
+          "page": 6,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706264 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382089      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n\n     CONFIDENTIAL SECTION 03 OF 03 SANTO DOMINGO 04161\n\n      FOR ARA ASSISTANT SECRETARY ARONSON\n     FROM AMBASSADOR TAYLOR\n\n        E.O. 12356: DECL:OADR\n       TAGS: AMGT, DR\n       SUBJECT: OFFICIAL-INFORMAL: THE OUTLOOK FOR\n           -    ELECTIONS IN THE DOMINICAN REPUBLIC\n\n\n         15. WE ALSO NEED TO MOVE SOON AFTER THE ELECTIONS TO\n      GET SOME MILITARY ASSISTANCE THROUGH SECTION 506(A) OR\n      OTHER MEANS TO RESTORE THE MATERIEL EFFECTIVENESS\n      NEEDED FOR THE NARCOTICS EFFORT AND BOLSTER THE\n       POLITICAL WILL THAT IS NOW AVAILABLE BUT COULD FLAG.\n\n         16. THE EMBASSY WILL, OF COURSE, CONTINUE A HEAVY\n     FLOW OF REPORTING UNTIL THE ELECTIONS AND BEYOND.  I\n      PERSONALLY LOOK FORWARD TO DISCUSSING THE RESULTS WITH\n      YOU AND CONSULTING ON OUR FUTURE POLICIES WHEN I AM IN\n      THE DEPARTMENT AT THE END OF MAY.\n\n         17. WARM REGARDS. TAYLOR\n\n\n\n\n\n       CONFIDENTIAL\n\n\n\n\n\n      NNNN\n\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706264 Date: 11/22/2017"
+        }
+      ]
+    },
+    {
+      "id": "foia-2026-10-C09000010",
+      "title": "SCENE-SETTER FOR SECRETARY DOLE'S VISIT TO THE DOMINICAN REPUBLIC",
+      "repository": "U.S. Department of State FOIA Library",
+      "sourceLead": "source-foia-C09000010",
+      "date": "1990-08-08",
+      "status": "Reviewable lead; compiler selection pending",
+      "action": "A senior U.S. visit brief covers bilateral economic, security, and political policy in the Caribbean.",
+      "caseNumber": "M-2014-23169",
+      "documentId": "C09000010",
+      "collection": "FOIA_M_Oct2026_3",
+      "postedDate": "2026-10-30",
+      "releaseBatch": "2026-10-30",
+      "reportingDateNote": "The scene-setter is dated August 8, 1990 and prepares for Dole’s delegation to the August 16 inauguration.",
+      "documentType": "Telegram",
+      "sender": "Embassy Santo Domingo",
+      "messageNumber": "1990 SANTO 009525",
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000010/C09000010.pdf",
+      "pageCount": 6,
+      "pageLinks": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000010/C09000010.pdf#page=1"
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000010/C09000010.pdf#page=2"
+        },
+        {
+          "page": 3,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000010/C09000010.pdf#page=3"
+        },
+        {
+          "page": 4,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000010/C09000010.pdf#page=4"
+        },
+        {
+          "page": 5,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000010/C09000010.pdf#page=5"
+        },
+        {
+          "page": 6,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000010/C09000010.pdf#page=6"
+        }
+      ],
+      "copyCitation": "U.S. Department of State, Embassy Santo Domingo, telegram 1990 SANTO 009525, “SCENE-SETTER FOR SECRETARY DOLE'S VISIT TO THE DOMINICAN REPUBLIC,” 1990-08-08, FOIA Library, case M-2014-23169, document C09000010, source PDF, pp. 1–6.",
+      "summary": "A scene-setter for Secretary Elizabeth Dole’s August 1990 inauguration visit, covering Dominican politics, U.S. relations, trade and assistance, anti-narcotics cooperation, and Haitian workers.",
+      "relevance": "A senior U.S. visit brief covers bilateral economic, security, and political policy in the Caribbean.",
+      "textStatus": "Searchable embedded PDF text; not independently checked against the facsimile.",
+      "textNotice": "Search text may contain source OCR or local OCR errors. Blank, redacted, illegible, non-English, and handwriting content may not be searchable. No text was inferred or reconstructed from redactions. Page numbers are physical PDF pages, not printed page labels.",
+      "selectionDecision": "Pending compiler review; no final FRUS selection implied.",
+      "searchableText": [
+        {
+          "page": 1,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706267 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382088      \"UNCLASSIFIED\"       9/25/2026\n\n\n       CONFIDENTIAL                                              RELEASED IN FULL\n      PAGE 01   SANTO  09525 01 OF 03 082214Z\n      ACTION LAB-04\n\n       INFO LOG-00 ADS-00  AID-01 SS-01  EB-01  ARA-01 SSO-01\n            SIL-01  /010 W\n                            112001 082226Z /60\n     O 082207Z AUG 90\n      FM AMEMBASSY SANTO DOMINGO\n      TO SECSTATE WASHDC IMMEDIATE 9735\n       INFO USDOLABOR WASHDC\n\n     CONFIDENTIAL SECTION 01 OF 03 SANTO DOMINGO 09525\n\n      DEPARTMENT PASS TO SECRETARY DOLE FROM AMBASSADOR TAYLOR\n\n        E. O. 12356: DECL: OADR\n       TAGS: PREL, PGOV, PINR, OFDP, DR, OVIP (DOLE, ELIZABETH)\n       SUBJ: SCENE-SETTER FOR SECRETARY DOLE'S VISIT TO THE\n           -  DOMINICAN REPUBLIC\n\n          1. CONFIDENTIAL - ENTIRE TEXT.\n\n          2.  I AM DELIGHTED THAT YOU HAVE BEEN SELECTED BY THE\n      PRESIDENT TO HEAD THE USG DELEGATION TO THE INAUGURATION\n      OF DR. JOAQUIN BALAGUER AS PRESIDENT OF THE DOMINICAN\n      REPUBLIC ON AUGUST 16. MY WIFE DORCAS AND I WILL BE\n      HONORED TO HAVE YOU AS OUR GUEST AT THE RESIDENCE, AND\n      THE ENTIRE EMBASSY WILL DO ITS UTMOST TO MAKE YOUR VISIT\n      A SUCCESS.\n\n          3.  I WOULD LIKE TO OFFER THE FOLLOWING AS A SCENE-\n      SETTER TO GIVE YOU AN OVERVIEW OF THE CURRENT SITUATION\n      AND WHAT YOU CAN EXPECT WHILE IN THE DOMINICAN REPUBLIC.\n\n      GENERAL POLITICAL AND ECONOMIC SITUATION\n                                                           REVIEW AUTHORITY:  Charles Daris,\n                                                                         Senior Reviewer\n          4. THE ELECTION OF PRESIDENT BALAGUER ON MAY 16 MARKED\n       CONFIDENTIAL\n\n       CONFIDENTIAL\n\n      PAGE 02   SANTO  09525 01 OF 03 082214Z\n\n      THE SEVENTH TIME DOMINICANS HAVE GONE TO THE POLLS SINCE\n      THE CURRENT DEMOCRATIC PROCESS BEGAN IN 1966. THE\n      DOMINICAN REPUBLIC IS THUS ONE OF THE OLDEST DEMOCRACIES\n        IN LATIN AMERICA, AND DEMOCRATIC PRINCIPLES HAVE BEGUN\n      TO TAKE ROOT. THOSE ROOTS ARE NOT YET DEEP, HOWEVER,\n      AND THE PROCESS HAS YET TO BE FULLY INSTITUTIONALIZED.\n     POWER HAS BEEN TRANSFERRED TWICE FROM THE GOVERNING\n      PARTY TO THE OPPOSITION (FROM BALAGUER IN 1978 AND BACK\n      TO HIM IN 1986), AND ON BOTH OCCASIONS THE TRANSITION\n     WAS VERY DIFFICULT AND REQUIRED CONSIDERABLE\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706267 Date: 11/22/2017"
+        },
+        {
+          "page": 2,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706267 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382088      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n       INTERNATIONAL AS WELL AS DOMESTIC PRESSURE.\n\n          5. THE CURRENT ELECTION WAS MARRED BY CHARGES OF FRAUD\n     FROM THE OPPOSITION PARTIES. WHILE NO HARD EVIDENCE WAS\n      PRODUCED, THE BARRAGE OF ALLEGATIONS AND THE AGONIZING,\n      TWO-MONTH-LONG PROCESS TO DETERMINE THE WINNER LEFT THEIR\n      MARK. IN THE END, BALAGUER EKED OUT ONLY A VERY NARROW\n      MARGIN (1 PERCENT) OVER HIS CLOSEST RIVAL AND PERENNIAL\n      OPPONENT, FORMER PRESIDENT JUAN BOSCH. BALAGUER WILL BE\n      EMBARKING ON HIS NEW TERM WITH A WEAK MANDATE (HE\n       ATTAINED ONLY 35 PERCENT OF THE VOTE) AND A HOSTILE\n       OPPOSITION THAT, IF IT UNITES, COULD CAUSE CONSIDERABLE\n      PROBLEMS OVER THE NEXT FOUR YEARS. (THE TWO MAIN\n       OPPOSITION PARTIES, WHO HOLD 90 OF THE 150 SEATS IN THE\n     NEW CONGRESS, HAVE STATED THEY WILL BOYCOTT THE\n       INAUGURATION.)\n\n         6. THE NATION'S ECONOMIC SITUATION IS ALSO PRECARIOUS,\n      LARGELY AS A RESULT OF MISMANAGEMENT. LOW ECONOMIC\n     GROWTH (LESS THAN 1 PERCENT IN 1989 AND THE SAME\n      PROJECTED FOR 1990), HIGH INFLATION (OFFICIALLY 41\n      PERCENT IN 1989 AND ESTIMATED AT NEAR 50 PERCENT FOR\n        1990) AND LOW WAGES (MOST DOMINICANS WORK FOR THE\n       CONFIDENTIAL\n\n       CONFIDENTIAL\n\n      PAGE 03   SANTO  09525 01 OF 03 082214Z\n\n      MINIMUM WAGE OF ABOUT $100 PER MONTH) HAS LED TO A\n       DECLINING STANDARD OF LIVING. AN OVERVALUED CURRENCY\n      AND AN ANTIQUATED AND OFTEN CORRUPT BUREAUCRACY ARE\n      REFLECTED IN A GROWING SHORTAGE IN THE MARKET PLACE OF\n       FUELS, BREAD AND OTHER STAPLES. A GOVERNMENT-OWNED\n       ELECTRICAL SYSTEM WHICH PROVIDES LESS THAN HALF OF DAILY\n      DEMAND, A DECAYED PUBLIC TRANSPORT SYSTEM AND INADEQUATE\n      WATER SUPPLY LEAD TO TREMENDOUS FRUSTRATIONS AND, IN\n       TURN, POLITICAL OPPOSITION. SOMEWHAT OFFSETTING THESE\n      NEGATIVES HAVE BEEN THE TREMENDOUS SUCCESS OF THE FREE\n      TRADE ZONES (WHERE DUTY-FREE IMPORTED MATERIALS AND\n      COMPONENTS ARE ASSEMBLED FOR EXPORT) AND THE TOURISM\n      SECTOR WHICH HAS GROWN AT AN ANNUAL RATE OF OVER 15\n      PERCENT EACH OF THE LAST SIX YEARS.\n\n          7. ON AUGUST 1 AND 6, PRESIDENT BALAGUER CHAIRED HIGH\n       PROFILE MEETINGS TO WHICH ALL SECTORS OF THE ECONOMY\n     WERE INVITED. HE PRESENTED AN \"ECONOMIC SOLIDARITY\n       PACT\" TO WHICH GOVERNMENT, BUSINESS, AND A FEW ELEMENTS\n      OF LABOR HAVE NOW COMMITTED. THE PACT CONTAINS THE\n      BROAD GUIDELINES FOR AN ADJUSTMENT OF THE ECONOMY AND\n     WAS IMPLEMENTED AUGUST 8 WITH REMOVAL OF SIGNIFICANT\n       PRICE SUBSIDIES ON GASOLINE, WHEAT AND SUGAR; A MAJOR\n      CURRENCY DEVALUATION; A PUBLIC SECTOR WAGE ADJUSTMENT;\n      AND NEW TARIFF RATES. SHOULD THE PROGRAM PROVE\n      SUCCESSFUL (IT IS THE MOST FAR REACHING AND SIGNIFICANT\n      REFORM EFFORT SINCE BALAGUER TOOK OFFICE), THE DOMINICAN\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706267 Date: 11/22/2017"
+        },
+        {
+          "page": 3,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706267 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382088      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n      REPUBLIC COULD RETURN TO A HIGH-GROWTH PATH. THE PACT\n      SHOULD ALSO MAKE IT POSSIBLE FOR THE GOVERNMENT TO COME\n      TO TERMS WITH THE IMF AND OBTAIN THE BENEFITS OF A PARIS\n      CLUB RESCHEDULING.\n\n\n\n\n\n       CONFIDENTIAL\n\n\n\n\n\n      NNNN\n\n       CONFIDENTIAL\n\n      PAGE 01   SANTO  09525 02 OF 03 082215Z\n      ACTION LAB-04\n\n       INFO LOG-00 ADS-00  AID-01 SS-01  EB-01  ARA-01 SSO-01\n            SIL-01  /010 W\n                            112017 082227Z /60\n     O 082207Z AUG 90\n      FM AMEMBASSY SANTO DOMINGO\n      TO SECSTATE WASHDC IMMEDIATE 9736\n       INFO USDOLABOR WASHDC\n\n     CONFIDENTIAL SECTION 02 OF 03 SANTO DOMINGO 09525\n\n      DEPARTMENT PASS TO SECRETARY DOLE FROM AMBASSADOR TAYLOR\n\n        E. O. 12356: DECL: OADR\n       TAGS: PREL, PGOV, PINR, OFDP, DR, OVIP (DOLE, ELIZABETH)\n       SUBJ: SCENE-SETTER FOR SECRETARY DOLE'S VISIT TO THE\n           -  DOMINICAN REPUBLIC\n\n          8. PRESIDENT BALAGUER IS A CONSUMMATE POLITICIAN. THE\n      FACT THAT AN 83-YEAR-OLD BLIND MAN FACING THE\n       DIFFICULTIES HE DOES CAN WIN REELECTION ATTESTS TO HIS\n      FORMIDABLE POLITICAL SKILLS. HE IS A LATIN \"CAUDILLO\"\n      (STRONGMAN) WHO LIVES TO EXERCISE POWER. HE PERSONALLY\n      MAKES ALL MAJOR DECISIONS IN HIS GOVERNMENT AND HIS\n       PARTY. WHILE HIS PHYSICAL LIMITATIONS HAVE MADE HIM\n     MORE DEPENDENT UPON A SMALL CIRCLE OF ADVISORS, HE\n       MAINTAINS HIS PENCHANT FOR SECRECY AND KEEPS HIS\n       THINKING ON VARIOUS ISSUES TO HIMSELF.  (I BELIEVE THAT\n         IT IS EXTREMELY IMPORTANT FOR YOU TO MEET BILATERALLY\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706267 Date: 11/22/2017"
+        },
+        {
+          "page": 4,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706267 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382088      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n      WITH PRESIDENT BALAGUER DURING YOUR VISIT.)\n\n      RELATIONS WITH THE USG\n\n          9. DOMINICANS OVERWHELMINGLY HAVE A POSITIVE ATTITUDE\n     TOWARD THE UNITED STATES AND BELIEVE THAT THERE IS A\n       CONFIDENTIAL\n\n       CONFIDENTIAL\n\n      PAGE 02   SANTO  09525 02 OF 03 082215Z\n\n       SPECIAL RELATIONSHIP BETWEEN THE TWO NATIONS. THIS\n      COMES IN PART FROM THE STRONG ECONOMIC TIES (54 PERCENT\n      OF ITS TRADE IS WITH THE UNITED STATES), FAMILIAL TIES\n       (UP TO 1 MILLION DOMINICANS HAVE EMIGRATED TO THE U.S.),\n      AND THE STRONG AMERICAN CULTURAL INFLUENCE. AS A LEGACY\n      OF REPEATED U.S. INTERVENTIONS, THE LATEST IN 1965, MANY\n      DOMINICANS ALSO BELIEVE THAT THE USG EXERTS CONSIDERABLE\n      INFLUENCE IN DOMESTIC POLITICS. (DURING THE RECENT\n      ELECTORAL PROCESS, THE USG MAINTAINED A POLICY OF\n      ABSOLUTE NEUTRALITY; THIS WAS WIDELY RECOGNIZED AND\n       APPLAUDED.)\n\n         10. PRESIDENT BALAGUER HAS LONG BEEN FRIENDLY TOWARD\n      THE UNITED STATES, AND HIS ADMINISTRATION HAS COOPERATED\n      CLOSELY WITH THE USG IN MANY AREAS. IN THE WAR ON\n      NARCOTICS TRAFFICKERS, FOR EXAMPLE, THE GODR HAS\n      ESTABLISHED A MODEL INTELLIGENCE COORDINATION CENTER AND\n      HAS ALLOWED THE USG TO BUILD A RADAR SITE WHICH IS A KEY\n       LINK IN THE CARIBBEAN BASIN RADAR NETWORK AND TO OPERATE\n      OTHER RADARS AND U.S. ANTI-DRUG AIRCRAFT FROM DOMINICAN\n        SOIL. THE DOMINICAN REPUBLIC ALSO HAS BEEN THE MOST\n      SUCCESSFUL NATION IN EXPLOITING THE COMMERCIAL\n      OPPORTUNITIES OF THE CARIBBEAN BASIN INITIATIVE, AND\n      LAST YEAR IT SIGNED A TAX INFORMATION EXCHANGE AGREEMENT\n      WITH THE USG.\n\n         11. THE DOMINICAN GOVERNMENT FINDS IT HARD TO\n      UNDERSTAND WHY, DESPITE ITS BROAD COOPERATION, U.S.\n      ASSISTANCE LEVELS ARE DECLINING.\n\n        ECOOMIC ASSISTANCE HAS FALLEN FROM $17:MILLION IN\n       FY85 TO $19 MILLION IN FY90. OUR ABILITY TO JUSTIFY\n      HIGHER ASSISTANCE LEVELS HAS BEEN COMPLICATED BY POOR\n       CONFIDENTIAL\n\n       CONFIDENTIAL\n\n      PAGE 03   SANTO  09525 02 OF 03 082215Z\n\n     GODR MACRO ECONOMIC POLICY MANAGEMENT. BECAUSE OF\n      ARREARS OF OVER $33 MILLION UNDER THE PL480 TITLE I\n      PROGRAM, APPROXIMATELY $20 MILLION IN NEW PL480 MONEY\n       WILL NOT BE AVAILABLE THIS YEAR. THE GODR IS CURRENTLY\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706267 Date: 11/22/2017"
+        },
+        {
+          "page": 5,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706267 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382088      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n      NEARLY 12 MONTHS IN ARREARS ON AID PROVIDED UNDER THE\n      FOREIGN ASSISTANCE ACT. (ASSISTANCE IS AUTOMATICALLY\n      CUT OFF TO COUNTRIES MORE THAN 12 MONTHS IN ARREARS.)\n      HOWEVER, THE DOMINICAN REPUBLIC HAS CONSIDERABLE GROWTH\n       POTENTIAL, ESPECIALLY THE EXPORT SECTORS, AND IF NEEDED\n      REFORMS ARE UNDERTAKEN, INCREASED LEVELS OF ECONOMIC AID\n      COULD BE WELL UTILIZED.\n\n            -- THE USG HAS NOT PROVIDED MILITARY ASSISTANCE\n       (FMS-GRANT) TO THE DOMINICAN REPUBLIC SINCE FY87 (EXCEPT\n      A SMALL AMOUNT OF END-OF-YEAR FUNDS IN FY88). THIS HAS\n      ADVERSELY AFFECTED THE GODR'S ABILITY TO MAINTAIN ITS\n       AIR AND SEA ASSETS, WHICH DIRECTLY AFFECTS THE DRUG WAR.\n\n         12. IT IS IN THIS CONTEXT THAT THE GSP REVIEW OF WORKER\n      RIGHTS TAKES ON SUCH IMPORTANCE. A NEGATIVE DECISION\n      COULD LEAD TO A PRECIPITOUS DECLINE IN THE EXPORT\n      PROCESSING ZONES AND THE LOSS OF PERHAPS AS MANY AS\n        100,000 JOBS. THIS WOULD CREATE NEW STRESSES ON THE\n      ALREADY TROUBLED POLITICAL AND ECONOMIC SYSTEMS. A\n      NEGATIVE DECISION WOULD CERTAINLY STRAIN RELATIONS WITH\n      THE USG AND POTENTIALLY AFFECT KEY U.S. INTERESTS SUCH\n      AS THE WAR ON DRUGS. ONLY RECENTLY HAS THE SERIOUSNESS\n      OF THE GSP ISSUE BEGUN TO SINK IN HERE, AND YOUR VISIT\n      CAN BE CRITICAL IN SENSITIZING THE DOMINICAN GOVERNMENT\n      TO THE GRAVITY OF THE MATTER AND THE NEED FOR\n      SUBSTANTIVE CHANGES. MY LAST CONVERSATION WITH\n\n\n\n\n\n       CONFIDENTIAL\n\n\n\n\n\n      NNNN\n\n       CONFIDENTIAL\n\n      PAGE 01   SANTO  09525 03 OF 03 082214Z\n      ACTION LAB-04\n\n       INFO LOG-00 ADS-00  AID-01 SS-01  EB-01  ARA-01 SSO-01\n            SIL-01  /010 W\n                            112005 082227Z /60\n     O 082207Z AUG 90\n      FM AMEMBASSY SANTO DOMINGO\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706267 Date: 11/22/2017"
+        },
+        {
+          "page": 6,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706267 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382088      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n      TO SECSTATE WASHDC IMMEDIATE 9737\n       INFO USDOLABOR WASHDC\n\n     CONFIDENTIAL SECTION 03 OF 03 SANTO DOMINGO 09525\n\n      DEPARTMENT PASS TO SECRETARY DOLE FROM AMBASSADOR TAYLOR\n\n        E. O. 12356: DECL: OADR\n       TAGS: PREL, PGOV, PINR, OFDP, DR, OVIP (DOLE, ELIZABETH)\n       SUBJ: SCENE-SETTER FOR SECRETARY DOLE'S VISIT TO THE\n           -  DOMINICAN REPUBLIC\n\n      PRESIDENT BALAGUER INDICATED THAT HE MAY BELIEVE\n      COSMETIC \"REFORMS\" AND WHAT HE VIEWS AS OUR \"SPECIAL\n       RELATIONSHIP\" WILL GET THE DOMINICAN REPUBLIC OFF THE\n      HOOK. YOU SHOULD DISABUSE HIM OF THAT IDEA.\n\n         13. ANOTHER AREA OF PARTICULAR INTEREST IS THE\n       PRESIDENT'S ENTERPRISE FOR THE AMERICAS INITIATIVE.\n       THIS PROGRAM COULD LEAD TO GREAT BENEFITS TO THE\n      DOMINICAN REPUBLIC IN TERMS OF DEBT RELIEF, TRADE, AND\n       INVESTMENT, IF NEEDED REFORMS ARE CARRIED OUT. TAYLOR\n\n\n\n\n\n       CONFIDENTIAL\n\n\n\n\n\n      NNNN\n\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706267 Date: 11/22/2017"
+        }
+      ]
     }
   ],
   "chronology": [
